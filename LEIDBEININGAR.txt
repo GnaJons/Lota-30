@@ -1,0 +1,16 @@
+LOTA 30 · VEFHEFTI
+
+Opnaðu index.html í Chrome eða Edge. Hafðu assets-möppuna, myndbond-möppuna og lota30-prent.pdf við hlið HTML-skjalsins.
+
+Yfirlitið opnar hvern tíma. Appelsínugul hugtök opna skýringar aftast; „Til baka í textann“ fer aftur að hugtakinu sem þú smelltir á. Gátlistinn vistar merkingar í þeim vafra sem þú notar, ef vafrageymsla er tiltæk.
+
+Átta myndbönd fylgja í myndbond-möppunni. Smelltu á „Myndband: …“ við viðkomandi efni til að opna spilarann og síðan á spilunarhnappinn. Myndböndin eru einnig aðgengileg þegar ZIP-pakkinn hefur verið afþjappaður á tölvu án nets. Þau birtast ekki í prentútgáfunni.
+
+Prentun: notaðu lota30-prent.pdf, 33 síður í Letter-stærð. PDF-skjalið er myndað úr þessu vefhefti og inniheldur allar átta skýringarmyndirnar. Það er tilbúið til prentunar og er ekki háð netaðgangi.
+
+Vefslóð: https://lota-30-algebra-ggj.gnajonsdottir.chatgpt.site
+Vefslóðin er lokuð og ætluð eiganda. Hún er ekki opin nemendum eða almenningi.
+
+Til að færa vefinn á eigin hýsingu: settu index.html, assets, myndbond og lota30-prent.pdf saman í sömu uppbyggingu. Fyrir Google Sites má fella inn aðgengilega hýsta vefslóð í einum ramma. Bein afritun HTML-kóðans ein og sér flytur hvorki myndir, myndbönd né PDF. Þessi útgáfa hefur ekki verið prófuð inni í Google Sites.
+
+Kennaranóta, orðalagsyfirferð og myndayfirlit eru fylgigögn fyrir kennara og eru ekki hluti nemendaflæðisins.

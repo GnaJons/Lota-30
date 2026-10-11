@@ -1,0 +1,38 @@
+LOTA 30 · ORÐALAGSYFIRFERÐ VEFHEFTIS
+11. október 2026
+
+Farið var yfir orðalag allra sjö tímanna, fyrirsagnir, myndatexta, gátlista, hugtakakafla og leiðbeiningar um flakk. 57 orðalagsbreytingar voru gerðar. Sýnidæmin eru áfram 38 og reikningar þeirra óbreyttir.
+
+VAL KENNARA
+• „Kvóti“ helst og er skýrt sem útkoma úr deilingu. Hugtakið er nú smellanlegt og bætist í hugtakakaflann.
+• „Radíus (geisli)“ er notað við fyrstu notkun. Eftir það er notað radíus.
+• Í stað „Báðar krossmargfaldanirnar þurfa líka að vera með“ stendur: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans. Ekki sleppa neinni af fjórum margföldununum.“
+
+MIKILVÆGASTA SKÝRINGIN Á HUGTÖKUM
+Miðliður og stuðull miðliðar voru aðgreindir. Miðliðurinn í ferningsreglu fæst með því að tvöfalda margfeldi liðanna og taka mið af formerkinu. Stuðull er talan sem margfaldar bókstafahluta liðar, ekki allur miðliðurinn.
+
+Mínusmerkið í (a − b)² = a² − 2ab + b² tryggir ekki að tölugildi miðliðarins sé neikvætt fyrir öll gildi a og b. Því segir nú „mínus á undan miðliðnum“. Einnig er skýrt að b² geti verið núll.
+
+SAMRÆMING OG NÁKVÆMARA ORÐALAG
+• Neikvæður veldisvísir: gagnhverfa er útskýrð og greind frá formerki útkomunnar.
+• Staðalform: óljóst orðalag um „stóra“ tölu víkur fyrir nákvæmum mörkum við 1 og 10.
+• Röð reikniaðgerða: margföldun og deiling hafa sama forgang; einnig samlagning og frádráttur. Reiknað er frá vinstri til hægri þegar forgangur er sá sami.
+• Innsetning: það að stæður gefi sama gildi í einni prófun sannar ekki almennt jafngildi.
+• Einingar: þegar km² er breytt í m² breytist tölugildið, en flatarmálið sjálft helst óbreytt.
+• Rúmfræði: brúnarlengd, hliðarflötur og yfirborðsflatarmál eru notuð með skýrari aðgreiningu.
+• Samokaregla: tvíliðurnar eru samoka; heitið lýsir sambandi þeirra.
+• Ferningsreglur: „hafðir í annað veldi“ er leiðrétt í „hafnir í annað veldi“.
+• Líkön: gert er skýrara fyrir hvaða gildi breytunnar líkanið er ætlað. Mismunur vinnslutíma er ekki kallaður sparnaður áður en vitað er hvor tíminn er minni.
+• Markverðir tölustafir: talningarstefna er tilgreind og skýrt að lokanúll í heilli tölu teljist ekki sjálfkrafa markverð.
+• Stæða og jafna: skilgreiningar eru skýrðar; stæðan sjálf er greind frá svigatáknunum utan um hana.
+
+Heilum skýringum og sýnidæmum var ekki fækkað í þessari yfirferð. Stuttar viðbótarskýringar koma þar sem fyrra orðalag gat valdið misskilningi. Fasti Lota 28 stíllinn, myndir, gátlistamerkingar og tenglar haldast.
+
+HEIMILDAVIÐMIÐ UM HUGTÖK
+Hugtakasafn í stærðfræði fyrir grunnskóla, Menntamálastofnun: meðal annars stæða, veldisstofn, kvóti og markverðir stafir.
+https://vefir.mms.is/flettibaekur/namsefni/hugtakasafn_stae/
+Skali 2A, kennsluleiðbeiningar, Menntamálastofnun: notkun hugtaksins markverðir tölustafir.
+https://mms.is/sites/mms.is/files/skali_2a_klb_7388.pdf
+
+AFHENDING OG PRÓFUN
+Vefhefti og prent-PDF innihalda sömu uppfærðu skýringar. PDF-skjalið er 33 síður. Vefurinn var prófaður í síma- og tölvubreidd, ásamt hugtakatenglum, flakki og vistun gátlistans. Prentútgáfan var yfirfarin sjónrænt. Eldri Overleaf-skjöl eru varðveitt óbreytt.
