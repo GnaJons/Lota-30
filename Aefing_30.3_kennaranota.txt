@@ -1,0 +1,38 @@
+ALGEBRA VI · LOTA 30 · ÆFING FYRIR 3. TÍMA
+24. nóvember 2026
+
+HEIMILD OG UMFANG
+30.3 dæmi.pdf, báðar síður lesnar og skoðaðar í heild. Viðeigandi lesefni í þriðja tíma yfirfarið til samræmingar. Ný sambærileg dæmi eru samin; tölur verkefnablaðsins og sýnidæmi lesefnisins eru ekki afrituð.
+Sjö kjarnahlutar með 13 skrefum og tveir valfrjálsir pipraðir hlutar með þremur skrefum. Áætlaður tími í kjarnaæfingu er 5–10 mínútur. Þrjú prófuð talnaafbrigði; hægt er að æfa aftur með nýjum tölum. Reiknivél má nota í viðbótinni.
+
+VÖRPUN VERKEFNA Í ÆFINGU
+30.19 → hluti 1, skref 1–2 → reikna gildi línulegrar stæðu þegar breytan er 0 og þegar hún er neikvæð → talnasvör. Núll við margföldun og frádráttur neikvæðrar tölu eru skýrð.
+30.20 → hluti 2, skref 3–4 → setja neikvætt gildi inn alls staðar í stæðu og reikna í réttri röð → val á réttri innsetningu og talnasvar. Veldisvísirinn þarf að ná yfir svigann utan um neikvæðu töluna.
+30.21 → hluti 3, skref 5 → reikna gildi stæðu með breytu í fyrsta og öðru veldi þegar gildið er tugabrot → talnasvar. Afbrigðin gefa bæði heila tölu, jákvætt tugabrot og neikvætt tugabrot.
+30.22 → hluti 4, skref 6–7 → fjarlægja sviga með plús og mínus fyrir framan → fjölval og stuðlasvör. Sama stæða er notuð með mismunandi merki fyrir framan svigann til að sýna muninn.
+30.23 → hluti 5, skref 8–9 → greina líka liði og einfalda mismun tveggja svigastæðna → fjölval og stuðlasvör. Bókstafahluti og veldisvísar þurfa að vera eins; fastar sameinaðir sérstaklega.
+30.24 → hluti 6, skref 10–12 → reikna með tveimur breytum, mínus fyrir þremur liðum og liðum sem falla út → stuðlar með formerkjum og fasti. Núll skráð þegar stuðull verður 0; endurgjöf sýnir einfölduðu stæðuna án liðarins.
+30.25 → hluti 7, skref 13 → innsetning í líkan með fyrsta, öðru og þriðja veldi → talnasvar í lítrum. Tilbúið líkan af vatnsmagni kemur í stað flensufaraldurs; tími, einingar og gildissvið líkansins eru skýr.
+30.26 (piprað) → valfrjáls hluti 8, skref 14 → innsetning í líkan með tugabrotsstuðlum og öðru veldi → hemlunarvegalengd í metrum. Þetta er reiknidæmi um gefið líkan, ekki fullyrðing um almenna hemlunarvegalengd við raunverulegar aðstæður.
+30.27 (piprað) → valfrjáls hluti 9, skref 15–16 → mynda mismun tveggja stæðna, einfalda og setja fjölda nafna inn → stuðlar og tímasparnaður í millisekúndum. Báðir liðir seinni stæðunnar dregnir frá.
+
+SVÖR, SKÝRINGAR OG ORÐALAG
+Notað er „líkir liðir“, í samræmi við nýjustu ákvörðun kennara. Einnig notuð samþykkt heiti breyta, stuðull, fasti, veldisvísir og formerki. Aðgreint er að reikna gildi og að einfalda stæðu.
+Talnareitir taka við neikvæðum tölum, núlli, kommu- og punktatugabrotum og bilum í stórum tölum. Í einföldunardæmum er beðið sérstaklega um stuðla og fasta; ekki þarf að kunna að slá heilar stæður inn í tölvu. Full einfölduð stæða birtist í endurgjöf.
+Tvær stigvaxandi vísbendingar fylgja hverju skrefi. Rangt svar lokar engu skrefi. Við eina villu í stuðlum bendir endurgjöfin á viðkomandi reit og staðfestir hina.
+
+RÁÐFÆRING VIÐ NÁMSEFNI
+Skali 3A, Menntamálastofnun, prentaðar bls. 118 og 120 lesnar: aðgreining liða og þátta, samlagning líkra liða og mínus sem nær til allrar stæðunnar sem dregin er frá. Skali 2A, prentaðar bls. 29–30 lesnar um veldi og sameiginlegar reiknireglur fyrir tölur og bókstafi. Eigin skýringar og dæmi samin fyrir æfinguna. Einnig lesinn allur þriðji tímakafli núverandi vefheftis.
+
+PRÓFUN OG VARÐVEISLA
+Öll 48 skref í þremur afbrigðum prófuð gegn sjálfstætt reiknuðum svarlykli, með tómum, röngum og réttum svörum. Prófuð núll, neikvæðar tölur, mismunandi mínustákn, tugabrotskomma og punktur, þriggja reita svör og stórar tölur með bilum.
+Vísbendingar, áfram/aftur, yfirlit, lyklaborð, endurhleðsla, ný talnaafbrigði, skemmd og óaðgengileg vafrageymsla prófuð. Allir skjáir prófaðir í fjórum breiddum 360–1360 px og innfelld æfing í þremur breiddum.
+Framvinda fyrstu og annarrar æfingar er aðskilin og varðveitt. Engin nöfn eða svör eru send til kennara. Æfingin opnast neðst í þriðja tíma og er falin í prentun.
+Engin stytting eða önnur efnisbreyting gerð á lesefninu. Sjö kaflar, 14 númeruð sýnidæmi, 25 hugtakaskýringar, skýringarmyndir, myndbönd og gátlisti varðveitt. Prent-PDF óbreytt; stærðir mynda í lesefni og eldri æfingum haldast.
+
+BIRTING
+Núverandi vefur: GnaJons/Lota-30, aðalgrein main.
+Grunnútgáfa: f3d28de95e604c462373ef6a308f6e016e8b7caf.
+Breyttar skrár: index.html, LEIDBEININGAR.txt, þessi kennaranóta og ný mappa aefingar/timi-3/.
+https://gnajons.github.io/Lota-30/#aefing-timi-3
+https://gnajons.github.io/Lota-30/aefingar/timi-3/
