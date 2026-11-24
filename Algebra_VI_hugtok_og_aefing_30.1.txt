@@ -1,0 +1,37 @@
+Algebra VI · Lota 30
+Uppfærsla 24. nóvember 2026
+
+HEITI OG HUGTÖK
+Heiti lotunnar er Algebra VI. Öll 15 atriðin í prófhugtakalista kennara eru nú sérstakar fyrirsagnir með skýringum, í sömu röð og í listanum. Sameiginlegur þáttur og þáttun hafa skýringar og tengt dæmi um dreifireglu í öfuga átt. Aðrar nauðsynlegar skilgreiningar eru varðveittar undir „Önnur hugtök í lesefninu“.
+„Líkir liðir“ er nýtt, skýrt val kennara í þessari beiðni. Eldri auðkenni hugtakatengla eru varðveitt. Breyta og stuðull eru skýrð saman og tenglar úr textanum fara á þá sameinuðu skilgreiningu og til baka á réttan stað.
+
+ÆFING FYRIR FYRSTA TÍMA
+Heimild: 30.1 dæmi.pdf, báðar síður og allar myndir lesnar og skoðaðar. Nýjar sambærilegar tölur; þetta er stuðningsæfing, ekki afrit verkefnablaðsins.
+30.1 → margföldun velda og stuðla → hluti 1.
+30.2 → deiling stuðla og veldisvísa; þættir eftir í nefnara → hluti 2.
+30.3 → veldisvísir 0 og ósýnilegur veldisvísir 1 → hluti 3.
+30.4 → margföldun þriggja þátta, einnig tugabrot → hluti 4.
+30.5 → allur liðurinn hafinn í annað veldi → hluti 5.
+30.6 → rúmmál rétthyrnds kassa út frá bókstafalengdum → hluti 6.
+30.7 → flatarmál rétthyrnings, einnig tugabrotsstuðull → hluti 7.
+30.8 (piprað) → einföldun með fleiri breytum → valfrjáls hluti 8. Margfeldi hafið í veldi er þegar æft í kjarna.
+30.9 (piprað) → munur á margföldun og samlagningu ólíkra liða → valfrjáls hluti 9.
+Í fyrirmælum 30.6 stendur „teninganna“, en teikningarnar sýna rétthyrnda kassa. Æfingin notar því „kassi“ og rétta rúmmálsreglu.
+
+Sjö kjarnahlutar, 12 reikniskref. Tveir valfrjálsir hlutar, þrjú reikniskref. Þrjú prófuð talnaafbrigði. Geymsla er aðeins í vafra; engin nöfn eða svör eru send til kennara. Æfing er felld inn neðst í fyrsta tíma, lokuð í upphafi og falin við prentun.
+
+BÓKARRÁÐFÆRING
+Skali 2A, Menntamálastofnun, prentaðar bls. 29–30 (veldi), 45 (staðalform), 48 (forgangsröð) og 50 (litlar tölur). Nýlegar staðfestar athuganir úr yfirferð þessa heftis 24.11.2026 nýttar fyrir óbreytt atriði.
+Skali 3A, Menntamálastofnun, prentaðar bls. 118 (liðir, þættir og þáttun; PDF-síða 120), 122 (sameiginlegur þáttur; PDF-síða 124), 126 (þáttun og stytting; PDF-síða 128), 142 (samokaregla; PDF-síða 144) og 144 (líkir liðir; PDF-síða 146). Viðkomandi síður lesnar við þessa viðbót. Eigin skýringar og ný dæmi samin.
+Samþykkt heiti kennara haldast: veldisstofn, veldisvísir, kvóti, radíus (geisli), fyrri og seinni ferningsreglan. Nýtt val „Líkir liðir“ tekið upp í prófhugtakaskrá.
+
+VARÐVEISLA OG STAÐFESTING
+Engin stytting var gerð á tímaköflum. Allir sjö kaflar og 14 númeruð sýnidæmi varðveitt; texti prentsíðna 3–19 er óbreyttur frá síðustu birtu útgáfu. Myndir, myndbönd og gátlisti haldast. Prent-PDF endurgert vegna nýs heitis og hugtakaskrár, alls 23 síður.
+Svarlyklar allra 45 skrefa prófaðir með réttum og röngum svörum. Brot staðfest með sjálfstæðri gildisprófun. Vísbendingar, áfram/aftur, yfirlit, lyklaborð, endurhleðsla, nýjar tölur, skemmd vafrageymsla og óaðgengileg vafrageymsla prófuð. Mjóir skjáir, innfelld æfing og prentfelur staðfest.
+
+BIRTINGARSTAÐUR
+https://gnajons.github.io/Lota-30/#hugtok
+https://gnajons.github.io/Lota-30/#aefing-timi-1
+https://gnajons.github.io/Lota-30/aefingar/timi-1/
+Grunnur: aðalgrein GnaJons/Lota-30, útgáfa 86a38998e4e0678fbdf92583493b3f113bb4987c.
+Breyttar skrár: index.html, lota30-prent.pdf, LEIDBEININGAR.txt, þessi kennaranóta og nýjar skrár í aefingar/timi-1/.

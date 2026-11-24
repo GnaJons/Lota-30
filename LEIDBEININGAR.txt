@@ -1,16 +1,22 @@
-LOTA 30 · VEFHEFTI · 24. NÓVEMBER 2026
+ALGEBRA VI · LOTA 30 · VEFHEFTI · 24. NÓVEMBER 2026
 
-Afþjappaðu allan pakkann og opnaðu index.html í Chrome eða Edge. Hafðu assets, myndbond og lota30-prent.pdf við hlið HTML-skjalsins. Myndir, myndbönd og lesefni virka án nets.
+Afþjappaðu allan pakkann og opnaðu index.html í Chrome eða Edge. Hafðu assets, myndbond, aefingar og lota30-prent.pdf við hlið HTML-skjalsins. Myndir, myndbönd og lesefni virka án nets.
 
 Yfirlitið opnar tímana. Appelsínugul hugtök tengjast skýringum aftast. „Til baka í textann“ fer aftur að hugtakinu sem var opnað. Gátlistinn vistar merkingar í þeim vafra sem þú notar, ef vafrageymsla er tiltæk.
 
 Smelltu á „Myndband: …“ til að opna spilarann og síðan á spilunarhnappinn. Myndböndin átta birtast ekki í prentútgáfunni.
 
-Til prentunar: lota30-prent.pdf, 21 Letter-síður. PDF-skjalið samsvarar lesefni vefsins.
+Til prentunar: lota30-prent.pdf, 23 Letter-síður. PDF-skjalið samsvarar lesefni vefsins.
 
 Vefslóð: https://gnajons.github.io/Lota-30/
 Aðgangsstillingum vefsins er ekki breytt með þessari efnisuppfærslu.
 
-Til eigin hýsingar þarf að flytja index.html, assets, myndbond og lota30-prent.pdf saman. Fyrir Google Sites þarf að fella inn hýsta slóð; afritun HTML-textans ein og sér flytur ekki fylgiskrárnar. Þessi útgáfa hefur ekki verið prófuð innan Google Sites.
+Til eigin hýsingar þarf að flytja index.html, assets, myndbond, aefingar og lota30-prent.pdf saman. Fyrir Google Sites þarf að fella inn hýsta slóð; afritun HTML-textans ein og sér flytur ekki fylgiskrárnar. Þessi útgáfa hefur ekki verið prófuð innan Google Sites.
 
 Kennaranota.txt og Yfirferd_verkefna_30.1-30.7.txt lýsa yfirferð lesefnisins. GitHub-útgáfan varðveitir nýju skýringarmyndirnar og símaframsetningu þeirra.
+
+NÝTT Í ÞESSARI ÚTGÁFU
+Öll 15 prófhugtökin eru fremst í hugtakaskránni, með skýringum. Önnur gagnleg hugtök fylgja á eftir.
+Æfingin „Veldi og stæður“ er neðst í fyrsta tíma. Opnaðu reitinn eða sérslóðina https://gnajons.github.io/Lota-30/aefingar/timi-1/ . Þar eru sjö kjarnahlutar og tveir valfrjálsir viðbótarhlutar. Nýjar tölur skipta á milli þriggja prófaðra afbrigða.
+Framvinda æfingarinnar geymist í sama vafra ef hann leyfir það. Svör eru ekki send til kennara. Æfingin er aðeins á vefnum.
+Algebra_VI_hugtok_og_aefing_30.1.txt lýsir þessari viðbót. Eldri kennaranótur lýsa fyrri yfirferð lesefnisins.
