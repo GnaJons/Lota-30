@@ -31,3 +31,5 @@ MYNDSTÆRÐ
 Átta skýringarmyndir í lesefninu á vefnum og í prent-PDF eru 20% minni frá 24. nóvember 2026. Myndir eru miðjaðar og halda stærðarhlutföllum. Minnkunin gildir ekki um æfingarnar; rúmfræðimyndir fyrstu æfingar eru komnar aftur í fyrri stærð. Texti, hugtök og reikningar lesefnisins eru óbreytt.
 
 Orðalag var yfirfarið 24. nóvember 2026. Sjá Ordalagsyfirferd_2026-11-24.txt. Prent-PDF og myndbönd 6 og 7 fylgja nýjustu yfirferð.
+
+Nýjasta breyting: endurteknar athugasemdir um að breytur megi ekki vera núll hafa verið felldar út. Ein skýring er í 1. tíma. Sjá Nullskilyrdi_ein_skyring.txt.
