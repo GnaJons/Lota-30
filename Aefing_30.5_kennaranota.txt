@@ -1,0 +1,40 @@
+ALGEBRA VI · LOTA 30 · ÆFING FYRIR 5. TÍMA
+24. nóvember 2026
+
+HEIMILD OG UMFANG
+Verkefnablað 30.5 dæmi.pdf lesið og skoðað í heild. Fimmti kafli núverandi lesvefs lesinn til samræmingar. Æfingin notar nýjar sambærilegar tölur og afritar ekki verkefnadæmi eða sýnidæmi lesefnisins.
+Sex kjarnahlutar með 13 skrefum. Tvær valfrjálsar viðbætur með átta skrefum. Þrjú yfirfarin talnaafbrigði, samtals 63 skref. Áætlaður tími í kjarnaæfingu er 10–15 mínútur.
+Pipruð dæmi 30.44–30.45 nýta samokareglu og ferningsreglur úr 6. og 7. tíma. Þau eru því sérmerkt valfrjáls viðbót, með tenglum á þá kafla. Kjarnanum má ljúka sjálfstætt.
+
+EFNISVÖRPUN
+30.38 → hluti 1, skref 1–3: fjögur margfeldi, eitt mínusmerki og mínus í báðum svigum. Litaskipt flatarmálsmynd styður fyrsta skrefið. Nemandi velur uppsetningu með öllum fjórum margfeldunum og skráir síðan stuðla í tveimur dæmum.
+30.39 → hluti 2, skref 4–5: fjórir ólíkir bókstafahlutar, síðan einn sameiginlegur bókstafur í svigunum. Fjórir svarreitir aðgreina liði sem ekki má draga saman. Röð þátta skýrist með xa = ax.
+30.40 → hluti 3, skref 6–7: fasti á undan neikvæðum bókstafalið og stuðlar við báða x-liði. Röð liða og formerki haldast skýr í milliskrefum.
+30.41 → hluti 4, skref 8–9: mismunandi breytur í svigunum og tvær sameiginlegar breytur. Nemandi aðgreinir xy, x, y og fasta, en sameinar ab-liði þegar við á.
+30.42 → hluti 5, skref 10–11: tugabrotsstuðlar með einni og tveimur breytum. Reiknað er nákvæmlega; milliskref eru ekki námunduð.
+30.43 → hluti 6, skref 12–13: fjögur margfeldi þar sem miðliðir falla út. Nemandi skráir núllstuðul. Í seinna dæminu kemur fastinn fyrst og stuðull við y² verður neikvæður. Ekki er krafist þekkingar á heiti samokareglunnar í kjarnanum.
+30.44 (piprað) → valfrjáls hluti 7, skref 14–17: heiti fyrri ferningsreglu, seinni ferningsreglu og samokareglu tengd við stæður. Síðan er reiknað eitt nýtt dæmi með hverri reglu.
+30.45a (piprað) → valfrjáls hluti 8, skref 18–19: lengri stæða unnin í hlutum. Fyrstu tvö margfeldin eru einfölduð, síðan bætast samokumargfeldi og tveir ferningar við. Stuðlar við x², xy og y² eru dregnir saman.
+30.45b (piprað) → valfrjáls hluti 8, skref 20–21: neikvæður þáttur framan við samokumargfeldi með brotum, síðan heildarstæðan með tveimur ferningum og þremur þáttum utan sviga. Jafngild brot og nákvæm tugabrot eru samþykkt. Brot eru sýnd í nauðsynlegum milliskrefum.
+
+SKÝRINGAR OG ORÐALAG
+Notuð eru samþykkt hugtök: tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, samokaregla, fyrri ferningsreglan og seinni ferningsreglan.
+Grunnleiðbeining: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.“ Tvær stigvaxandi vísbendingar fylgja hverju skrefi. Eftir rétt svar birtast nauðsynleg milliskref og einfölduð stæða.
+Svarreitir biðja skýrt um stuðla og fasta með formerkjum; 0 er skráð þegar liður fellur út. Tekið er við tugabrotskommu, punkti og almennum brotum. Brotin 3/4 og 6/8 eru jafngild svör. Broti með nefnara 0 er hafnað. Enginn nemendatexti er keyrður sem forrit.
+Myndin í fyrsta skrefi er merkt með x > 0. Myndstærð fylgir samþykktu æfingasniði. Lengri stæður skiptast á eðlilegum aðgerðamörkum í þröngu sniði.
+
+RÁÐFÆRING VIÐ NÁMSEFNI
+Skali 3A, Menntamálastofnun, prentuð bls. 132 lesin um margföldun tvíliða, bls. 136–137 um ferningsreglu og bls. 142 um samokareglu. Reglur samræmdar lesefni tímanna. Eigið orðalag, eigin tölur og ný SVG-mynd samin fyrir æfinguna.
+
+GÆÐAPRÓFUN OG VARÐVEISLA
+Öll 63 skref þriggja talnaafbrigða prófuð gegn sjálfstætt reiknuðum svarlykli. Tóm, röng og rétt svör, leiðrétting svara, vísbendingar, áfram/aftur, yfirlit, lyklaborð og endurtekning með nýjum tölum prófuð.
+Sérstaklega prófuð: fjögurra reita svör og vistun þeirra, neikvæðir stuðlar, núllstuðlar, tugabrot og jafngild brot, skemmd vafrageymsla og óaðgengileg vafrageymsla. Framvinda tíma 1–4 varðveitt og aðskilin.
+Allir skjáir prófaðir í fjórum breiddum 360–1360 px, samtals 252 framsetningar. Innfelld æfing prófuð í þremur breiddum. Öll talnaafbrigði voru einnig skoðuð við 360 px innfellda framsetningu. Engar villur í vafra, brotnar skráarslóðir eða lárétt skrun fundust. Engin nöfn eða svör eru send til kennara.
+Ekkert lesefni var stytt eða breytt. Sjö kaflar, 14 númeruð sýnidæmi, 25 hugtakaskýringar, gátlisti, myndir og myndbönd varðveitt. Prent-PDF og æfingar tíma 1–4 eru óbreytt. Ný æfing er falin við prentun.
+
+BIRTING
+Heimild: 30.5 dæmi.pdf. Áfangastaður: GnaJons/Lota-30, grein main, neðst í section#timi-5.
+Grunnútgáfa: 247db6a9178ec9d4f8037ca61d2bf36df85a5cbd.
+Breyttar skrár: index.html, LEIDBEININGAR.txt, þessi kennaranóta og nýjar skrár í aefingar/timi-5/.
+https://gnajons.github.io/Lota-30/#aefing-timi-5
+https://gnajons.github.io/Lota-30/aefingar/timi-5/
