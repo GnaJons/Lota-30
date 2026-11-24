@@ -20,8 +20,9 @@ NÝTT Í ÞESSARI ÚTGÁFU
 Æfingin „Veldi og stæður“ er neðst í fyrsta tíma. Opnaðu reitinn eða sérslóðina https://gnajons.github.io/Lota-30/aefingar/timi-1/ . Þar eru sjö kjarnahlutar og tveir valfrjálsir viðbótarhlutar. Nýjar tölur skipta á milli þriggja prófaðra afbrigða.
 Æfingin „Staðalform“ er neðst í öðrum tíma. Sérslóð: https://gnajons.github.io/Lota-30/aefingar/timi-2/ . Sjö kjarnahlutar æfa dæmagerðir úr 30.10–30.16. Tveir valfrjálsir viðbótarhlutar byggja á pipruðum dæmum 30.17–30.18. Hægt er að fá vísbendingar, skoða fyrri skref og æfa aftur með nýjum tölum.
 Æfingin „Gildi og einföldun“ er neðst í þriðja tíma. Sérslóð: https://gnajons.github.io/Lota-30/aefingar/timi-3/ . Sjö kjarnahlutar æfa innsetningu, formerki, sviga og líka liði. Hemlunarvegalengd og samanburður tveggja forrita eru valfrjáls viðbót. Þrjú talnaafbrigði eru í boði.
+Æfingin „Margföldun inn í sviga“ er neðst í fjórða tíma. Sérslóð: https://gnajons.github.io/Lota-30/aefingar/timi-4/ . Sjö kjarnahlutar æfa dreifireglu, veldi, formerki, einföldun og innsetningu. Þrjár valfrjálsar viðbætur fjalla um rúmmál, yfirborðsflatarmál, ummál og flatarmál. Þrjú talnaafbrigði eru í boði.
 Framvinda hverrar æfingar geymist sjálfstætt í sama vafra ef hann leyfir það. Svör eru ekki send til kennara. Æfingarnar eru aðeins á vefnum og fylgja ekki prentútgáfunni.
-Algebra_VI_hugtok_og_aefing_30.1.txt, Aefing_30.2_kennaranota.txt og Aefing_30.3_kennaranota.txt lýsa æfingunum. Eldri kennaranótur lýsa fyrri yfirferð lesefnisins.
+Algebra_VI_hugtok_og_aefing_30.1.txt og Aefing_30.2_kennaranota.txt til Aefing_30.4_kennaranota.txt lýsa æfingunum. Eldri kennaranótur lýsa fyrri yfirferð lesefnisins.
 
 MYNDSTÆRÐ
 Átta skýringarmyndir í lesefninu á vefnum og í prent-PDF eru 20% minni frá 24. nóvember 2026. Myndir eru miðjaðar og halda stærðarhlutföllum. Minnkunin gildir ekki um æfingarnar; rúmfræðimyndir fyrstu æfingar eru komnar aftur í fyrri stærð. Texti, hugtök og reikningar lesefnisins eru óbreytt.
