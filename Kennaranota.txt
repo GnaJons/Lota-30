@@ -1,55 +1,46 @@
-LOTA 30 · KENNARANÓTA VEFÚTGÁFU
-Dagsetning: 11. október 2026. Vefútgáfa 1.5 — dæmanúmer, minni myndir í 4. tíma og samræmt orðalag myndbanda.
+LOTA 30 · KENNARANÓTA
+24. nóvember 2026
+Yfirferð samkvæmt Námsefnissmiði — fastur Lota 28 stíll, útgáfu 1.0.29.
 
-Grunnur: síðasta yfirfarna LaTeX-lesheftið, útgáfa 1.1, byggt á verkefnum 30.1–30.7. Sjö tímar og öll 38 sýnidæmi haldast. Efnislegar leiðréttingar og nýtt dæmaval úr yfirferðinni haldast, þar á meðal pökkunarlínur, veðurmælingar, sýningarsvæði og ný samsett algebrudæmi.
+EFNISVAL
+Allir sjö tímarnir, yfirlitið, hugtakaskráin, myndmerkingar og gátlisti voru yfirfarin. Sýnidæmum hefur verið fækkað úr 38 í 14: tvö stutt grunnsýnidæmi í hverjum tíma, númeruð samfellt 1–14. Aðferðalýsingar, mikilvægar formúlur, einingar, forsendur og nauðsynleg reikniskref haldast. Hagnýtir kaflar veita stuttar almennar ábendingar. Fullar lausnir á hagnýtum hliðstæðudæmum voru felldar brott svo nemendur finni sjálfir lausnaleiðir.
 
-Námsstíll: fastur samþykktur Lota 28 stíll. CSS og hegðun eru óbreytt frá viðbótinni að frátöldum geymslulykli lotunnar, lota30-v1-2026. Appelsínugul hugtök, flakk, gátlisti, letur, litir og prentreglur fylgja fyrirmyndinni.
+Í sérstakri yfirferð eftir styttinguna voru dæmi 1 og 13 styrkt og stuttum skýringum bætt við þar sem yfirfærsla í verkefnin var of óbein. Lesefnið undirbýr nú líka skýrar að hefja heilt margfeldi eða tölu á staðalformi í veldi, reikna með fleiri breytum og brotum og varðveita sviga um niðurstöðu hluta í langri stæðu. Skýring á yfirborðsflatarmáli kassa var bætt. Pipruð dæmi 30.44–30.45 byggja á 6. og 7. tíma; það er nú tekið fram. Nákvæm sundurliðun fyrir öll verkefnin er í Yfirferd_verkefna_30.1-30.7.txt.
 
-Myndir: allar átta innsendu skýringarmyndirnar eru notaðar óbreyttar og í upprunalegum stærðarhlutföllum. Engin myndgerð var endurtekin. Myndayfirlitið fylgir sérstaklega kennara en er ekki endurtekið inni í nemendaheftinu.
-01 og 02: fyrsti tími, flatarmál og rúmmál.
-03: annar tími, staðalform.
-04: fjórði tími, dreifiregla.
-05: fjórði tími, kassi með þrjár ólíkar lengdir.
-06: fimmti tími, margföldun tvíliða.
-07: sjötti tími, flatarmálsskýring samokareglu.
-08: sjöundi tími, ferningsregla.
-Blaðsíðunúmer í innsendum skráarnöfnum og myndayfirliti vísa til eldri PDF-uppsetningar, ekki nýju vefprentútgáfunnar.
+Lesið var úr öllum sjö verkefnablöðunum 30.1–30.7 og dæmavalið borið saman við þau. Grunnsýnidæmin nota aðrar stærðir en verkefnadæmin; engar fullar lausnir hagnýtra verkefna voru færðar í myndbönd eða lokaða reiti. Fyrirliggjandi myndbönd styðja grunnreikniaðferðirnar.
 
-Afmarkaðar efnisbreytingar í vefútgáfu: kaflinn „Um efnið“ er fluttur úr nemendaflæði í þessa nótu. Leiðbeiningar um blá hugtök og blaðsíðutilvísanir eru aðlagaðar appelsínugulum hugtökum og vefslóðum. Tvær endurteknar framvísanir eru felldar brott við lok 4. tíma og regluyfirlit 5. tíma; reikningur og skýringar standa áfram í viðkomandi tímum. Stærðfræðiformúlur og lokasvör eru óbreytt.
+ORÐALAG OG TÁKN
+Notað er „liðir“, „kvóti“, „veldisstofn“, „radíus (geisli)“ við fyrstu kynningu, „fyrri ferningsreglan“ og „seinni ferningsreglan“. Stuðull er talan sem margfaldar bókstafahluta liðar. Við margföldun tvíliða segir: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.“ Notaðar eru lýsingarnar „stuðlar sem eru brot“ og „stuðlar sem eru tugabrot“.
 
-Orðalagsyfirferð: texti allra sjö tímanna, fyrirsagnir, myndatextar, gátlisti, hugtakaskýringar og flakk voru yfirfarin. Skráðar voru 57 orðalagsbreytingar og hugtakinu kvóti bætt í hugtakakaflann. Kennari valdi að halda „kvóti“, nota „radíus (geisli)“ við fyrstu notkun og skýra leiðbeiningu um margföldun tvíliða í stað „krossmargfaldana“. Nánar í Ordalagsyfirferd.txt.
+Yfirborðsflatarmál er táknað YF, rúmmál R og flatarmál F. Brúnarlengd tenings er h. Greint er milli formerkis tölugildis og mínusmerkis í reglu. Skilyrðið um veldisstofn frábrugðinn núlli kemur fram við deilingarreglu og núllta eða neikvæða veldisvísa. Innsetning getur bent á villu en ein innsetning sannar ekki almennt jafngildi stæðna.
 
-Yfirferð: 7 tímar, 38 sýnidæmi, 8 myndir, 26 gátlistaatriði og 21 hugtakaskýring. Fasti grunnstíllinn og hegðun haldast. Að beiðni kennara eru allar átta skýringarmyndirnar nú 80% af fyrri breidd og hæð í vef og prenti. Sérstök prentregla lækkar hámarkshæð þeirra úr 65 í 52 mm; þetta er eina viðbótin við fasta stílblaðið. Prófað við 1360 og 390 punkta breidd án yfirflæðis allrar síðunnar. Engar JavaScript-villur eða gallaðir MathML-reitir fundust. Hugtök og til-baka-flakk prófuð, einnig án JavaScript. Gátlisti prófaður með vistun og án aðgangs að vafrageymslu. Allir innri tenglar og staðbundnar skrár sannreynd. Prent-PDF, 33 Letter-síður, yfirfarið sjónrænt; vatnsmerki og blaðsíðutal fylgja öllum síðum. Allir 139 reiknireitir og töflureitir með stærðfræði haldast óbreyttir frá fyrri vefútgáfu. Fyrri tölulegar prófanir grunnheftisins voru því ekki endurteknar fyrir þessa orðalagsbreytingu. Öll 90 fyrri auðkenni tengla og kafla haldast.
+Kennari hafði valið að sleppa tveggja aukastafa viðbót í staðalformskaflanum. Það val er varðveitt. Nákvæm gildi og fyrirmæli um markverða tölustafi gilda þar. Stuðlar sem eru brot haldast nákvæmir í algebrustæðum. Textinn „Tugveldið er margföldunarstuðull“ í staðalformsmyndbandinu helst samkvæmt vali kennara.
 
-Gamla Overleaf-útgáfan er varðveitt óbreytt. Nýja prent-PDF-ið er myndað úr HTML og samsvarar myndum og framsetningu vefheftisins.
+MYNDIR OG MYNDBÖND
+GitHub-útgáfan varðveitir allar átta nýju skýringarteikningarnar sem voru þegar komnar á GitHub, ásamt lóðréttri framsetningu staðalforms og samokareglu í síma. Þær fylgja nú yfirförnu lesefni og skýringum. Endurteknar formúlur neðan við teikningar eru sýndar einu sinni í tengdum kennslutexta. Upprunalegu PNG-skrárnar eru áfram óbreyttar í assets-möppunni. Lengdir, tákn og rúmfræði teikninganna haldast.
 
+Myndbönd 7 og 8 voru endurunnin með nýjum heitum á ferningsreglunum. Reikningar, tímastillingar og myndbandsstíll haldast. Önnur sex myndbönd eru óbreytt frá síðustu afhendingu. Allir átta myndbandsreitir eru lokaðir í upphafi, hafa venjulega spilunarstýringu og eru faldir í prenti. Nýju skrárnar voru afkóðaðar í heild og breyttir textar skoðaðir í myndrömmum. Þær eru 1280 × 720 við 30 ramma á sekúndu, 1:49 og 1:50.
 
-SÍÐARI HUGTAKAYFIRFERÐ
-Kennari óskaði eftir „liðum“ í stað „samkynja liða“. Þetta er nú samræmt í yfirliti, kennslutexta, gátlista og hugtakaskýringum. Í skýringum á sameiningu liða kemur fram að bókstafahlutinn og veldisvísarnir þurfa að vera eins; tölur án bókstafa má einnig leggja saman. Hugtakareiturinn heitir nú „Liðir sem má sameina“ og eldri tenglar haldast virkir.
+GÁTLISTI OG FLÆÐI
+Gátlistinn hefur 16 markmið, skipt eftir öllum sjö tímunum. Skyld markmið eru sameinuð. Geymslulykill lotunnar helst; öll eldri gögn varðveitast. Sameinað markmið er aðeins merkt sjálfkrafa ef öll samsvarandi eldri markmið voru merkt. Nýrra skýrt val, líka afmerking, gengur framar tilfærslu. Eldri kaflatenglar leiða áfram í viðeigandi tíma.
 
-Ein viðbótarvilla fannst í hugtakanotkun: „neikvæð tugveldi“ var leiðrétt í „tugveldi með neikvæðum veldisvísi“. Tugveldið sjálft er jákvætt. Kennari staðfesti að „veldisstofn“ skyldi halda sér og valdi einfaldari skýringu á stuðli: „Stuðull er talan sem margfaldar bókstafahluta liðar.“ Sú skýring er einnig notuð um stuðul miðliðar.
+Samþykkt grunnletur, línubil, litir, flakk og vatnsmerki haldast. Þétting byggist á styttra efni, færri endurtekningum, texta við hlið mynda og tveimur stuttum dæmum hlið við hlið þar sem þau rúmast. Reikniskref hafa jafnaðarmerki í lóðréttri línu, innsett gildi í grænbláum svigum og tvíundirstrikuð lokasvör. Brot í sjálfstæðum reiknilínum fá fulla birtingarstærð. Prentheftið er 21 síða í stað 41.
 
-Orðalag um margföldun við liði og stæðu innan sviga var skýrt. Tilvísunin „Þau gilda áfram“ var lagfærð í „Þessi skilyrði gilda áfram“. Kvóti og radíus (geisli) haldast samkvæmt fyrra vali kennara. Ekkert reiknidæmi, reikniskref eða stærð myndar var breytt í þessari yfirferð.
+ÍSLENSKAR KENNSLUBÆKUR SEM VORU LESNAR
+Skali 2A, nemendabók, Menntamálastofnun: prentaðar bls. 29–30 (veldi og veldareglur), 45 (staðalform stórra talna), 48 (reikningur á staðalformi) og 50 (staðalform lítilla talna). Samsvara PDF-síðum 31–32, 47, 50 og 52.
+https://vefir.mms.is/flettibaekur/namsefni/skali2anem/files/assets/common/downloads/publication.pdf
 
-Viðmið um veldisstofn og tugveldi: Skali 1B, hugtakaskrá, bls. 137:
-https://vefir.mms.is/flettibaekur/namsefni/skali1b/files/assets/basic-html/page-137.html
+Skali 3A, nemendabók, Menntamálastofnun: prentaðar bls. 132 (margföldun tvíliða), 136–137 (fyrri ferningsreglan og flatarmál), 139 (seinni ferningsreglan) og 142 (samokareglan). Samsvara PDF-síðum 134, 138–139, 141 og 144.
+https://vefir.mms.is/flettibaekur/namsefni/skali3aneme/files/assets/common/downloads/publication.pdf
 
+Aðferðir og reikniskref voru borin saman við þessar síður. Dæmi bókanna voru ekki afrituð. Heitaval kennara gengur áfram framar öðrum viðurkenndum heitum í bókunum. Orðalag bókar um formerki miðliðar var ekki endurtekið sem fullyrðing um að tölugildið sé alltaf neikvætt.
 
-MYNDBÖND Í VEFÚTGÁFU
-Öll átta innsendu MP4-myndböndin fylgja óbreytt í myndbond-möppunni. Lengdir eru mældar úr skránum og námundaðar að næstu sekúndu í fyrirsögnum.
-1. tími: Margföldun velda, 1:25, á eftir dæminu „Margfeldi með einum eða fleiri bókstöfum“.
-2. tími: Staðalform, 1:31, á eftir skýringarmynd um tugveldi.
-3. tími: Mínus fyrir framan sviga, 1:23, á eftir „Sami svigi, mismunandi aðgerð“.
-4. tími: Margföldun inn í sviga, 1:30, á eftir „Tölur, breytur og fleiri liðir“.
-5. tími: Margföldun tvíliða, 1:32, á eftir flatarmálsskýringunni á (u+4)(u+6).
-6. tími: Samokaregla, 1:49, á eftir „Finndu stærðirnar tvær“.
-7. tími: Ferningsreglur, 1:49, á eftir „Báðir liðir tvíliðunnar eru hafnir í annað veldi“.
-7. tími: Val á reglu, 1:50, við áminninguna „VELDU REGLU“, á undan samsetta lokadæminu.
+SANNPRÓFUN
+Fasta stílprófið stóðst. Allar 15 reikniraðir sýnidæmanna voru lesnar og 351 samanburðir milli reikniskrefa staðfestir með nákvæmum brotarekningi. Samfelld númerun, 14 sýnidæmi, 16 markmið, 21 hugtakaskýring og allir innri tenglar voru sannreynd.
 
-Myndbönd eru í lokuðum reitum samkvæmt föstum Lota 28 stíl. Engin sjálfvirk spilun eða forhleðsla. Opnun með mús og lyklaborði, opnun án JavaScript, spilun allra átta myndbandanna og síma- og tölvubirting voru prófuð. Myndbandareitir eru faldir við prentun. Fyrri prent-PDF helst því óbreytt, 33 síður; prentflæði og annað námsefni eru óbreytt. Öll eldri auðkenni, hugtakaskýringar, reikningar, gátlisti og 20% minnkun mynda haldast.
+Vefurinn var skoðaður við 1360 og 390 punkta breidd og mældur við sjö breiddir, líka við mörk dálkaskiptingar. Ekkert lárétt yfirflæði eða misjöfn jafnaðarmerki fundust í reiknireitum. Grunnletur og línubil voru borin saman við fyrri útgáfu og héldust. Prófuð voru hugtakaflakk og bakaleið, tenglar án JavaScript, lyklaborðsmerkingar, talning, endurhleðsla og tilfærsla gátlistagagna. Prent-PDF var myndað úr sama HTML og síður skoðaðar sjónrænt; myndir, skýringar og reiknihópar haldast saman.
 
+Eldra Overleaf-leshefti er varðveitt. Afhent PDF er nýja prentútgáfan úr vefnum.
 
-NÝJASTA UPPFÆRSLA
-Öll 38 sýnidæmi eru númeruð 1–38 á vefnum og í 33 síðna prent-PDF. Skýringarmyndirnar tvær í 4. tíma voru minnkaðar um 20% til viðbótar; stærð annarra mynda helst. Breidd og hæð voru sannreyndar við 1360 og 390 punkta breidd og í prenti. Eldri auðkenni, reikningar, námsinnihald og hegðun haldast. Breyttar prentsíður og síðuskipti voru yfirfarin.
-
-Allur texti myndbandanna var yfirfarinn. Sjö MP4-skrár eru nú endurgerðar með samræmdu orðalagi; staðalformsmyndbandið helst óbreytt. Kennari valdi að halda „Tugveldið er margföldunarstuðull.“ Nánar í Ordalagsyfirferd_myndbanda.txt. Nýju myndböndin nota „liði“, skýra stæðuna innan svigans og samokamynstrið, og halda stærðfræði, hreyfingum, lestrarpásum og samþykktu útliti. Bæði reiknireitir vefheftis og formúlur myndbanda voru bornar saman við fyrri útgáfur og haldast óbreyttir.
+GITHUB-UPPFÆRSLA
+Lokasamsetning lesefnis og nýju GitHub-myndanna var prófuð við sex skjábreiddir. Reikningar og texti sýnidæma voru borin nákvæmlega saman við yfirfarna útgáfu og héldust. Allar átta myndirnar voru skoðaðar á tölvu og síma og allar 21 síður nýs PDF yfirfarnar. Stutt skýring með dæmi 11 helst nú með dæminu á sömu prentsíðu.
