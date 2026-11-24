@@ -1,0 +1,36 @@
+ALGEBRA VI · LOTA 30 · ÆFING FYRIR 2. TÍMA
+24. nóvember 2026
+
+GRUNNUR OG MARKMIÐ
+Verkefnablað: 30.2 dæmi.pdf, báðar síður lesnar og skoðaðar með myndum. Æfingin undirbýr sömu aðferðir með nýjum tölum. Hún tekur eitt skref í einu og sameinar tölusvör, val á aðgerð og mat á niðurstöðu. Sjö kjarnahlutar, 14 skref; áætlaður tími 5–10 mínútur. Tveir valfrjálsir pipraðir hlutar, fimm skref. Þrjú afbrigði með ólíkum tölum. Viðbótin þarf reiknivél með π-hnappi.
+
+SAMANBURÐUR VIÐ VERKEFNABLAÐ
+30.10 → hluti 1, skref 1–2: stórar og litlar tölur skrifaðar á staðalformi; stuðull á bilinu 1 að 10 og jákvæður eða neikvæður veldisvísir.
+30.11 → hluti 2, skref 3–4: breytt úr staðalformi í venjulegan rithátt, einnig mjög litlar tölur með mörgum núllum.
+30.12 → hluti 3, skref 5–6: margföldun og deiling talna á staðalformi; samlagning og frádráttur veldisvísa; frádráttur neikvæðs veldisvísis og leiðrétting stuðuls bæði undir 1 og yfir 10.
+30.13 → hluti 4, skref 7–8: margfeldi og kvóti talna sem fyrst þarf að breyta í staðalform.
+30.14 → hluti 5, skref 9–11: milljónir og milljarðar; val á réttri uppsetningu kvóta og útreikningur.
+30.15 → hluti 6, skref 12–13: fjöldi agna fæst með heildarmassa deilt með massa einnar agnar. Tilbúið reiknilíkan er skýrt merkt; engin fullyrðing um raunverulegan massa tiltekinnar sameindar.
+30.16 → hluti 7, skref 14: dagleg vatnsnotkun yfir 365 daga, lokasvar á staðalformi.
+30.17 (piprað) → valfrjáls hluti 8, skref 15–16: val á rúmmálsformúlu kúlu, allur radíusinn hafinn í þriðja veldi, m³ og þrír markverðir tölustafir. Ekki námundað fyrr en í lokin.
+30.18 (piprað) → valfrjáls hluti 9, skref 17–19: prósentuhluti flatarmáls, km² í m², flatarmál á mann og mat á hvort svæði dugi út frá skýru, gefnu viðmiði. Tilbúin svæði og íbúafjöldar eru notuð.
+
+SKÝRINGAR OG ORÐALAG
+Tvær vísbendingar fylgja hverju skrefi. Eftir rétt svar birtast nauðsynleg reikniskref eða rök. Vísbendingar minna m.a. á að neikvæður veldisvísir á 10 gerir ekki töluna neikvæða, að laga þarf stuðul og veldisvísi saman og að 1 km² = 10⁶ m².
+Samþykkt hugtök: veldisvísir, tugveldi, stuðull, staðalform, kvóti, radíus (geisli). Íslensk kommutugabrot og bil milli þriggja tölustafa hópa eru notuð í framsetningu. Nemandi má svara með kommu eða punkti.
+Samkvæmt ákvörðun kennara er engri tveggja aukastafa viðbót bætt við staðalformssvör. Aðeins kúluverkefnið krefst þriggja markverðra tölustafa; þar er t.d. 1,80 aðgreint frá 1,8.
+
+BÓKARRÁÐFÆRING
+Skali 2A, Menntamálastofnun: prentuð bls. 45 (milljónir, milljarðar og stórar tölur á staðalformi) og 50 (litlar tölur og neikvæðir veldisvísar) lesnar við þessa viðbót. Áður yfirfarin og staðfest lesefni lotunnar nýtt fyrir óbreyttar veldareglur, rúmmálsreglu kúlu og flatarmálseiningar. Dæmi, tölur og orðalag æfingarinnar eru samin fyrir þessa æfingu.
+
+VARÐVEISLA LESEFNIS OG MYNDSTÆRÐ
+Ekkert lesefni var stytt eða endurskrifað við þessa viðbót. Allir sjö tímakaflar, 14 númeruð sýnidæmi, hugtakaskrá og gátlisti varðveitt. Átta skýringarmyndir lesefnis halda 20% minnkun á vefnum og í 23 síðna prent-PDF. Minnkun á myndum inni í fyrstu æfingunni tekin til baka að ósk kennara. Prent-PDF er óbreytt frá síðustu útgáfu; æfingarnar eru faldar við prentun.
+
+VIRKNI OG STAÐFESTING
+Öll 57 svör í þremur afbrigðum borin saman við sjálfstætt reiknaðan svarlykil og prófuð með réttum og röngum svörum. Sérstaklega prófuð: mjög litlar tölur sem mega ekki vera metnar jafnar núlli, veldisvísir 0 og neikvæðir veldisvísar, óstaðlaður stuðull með sama talnagildi, markverðir tölustafir, kommu- og punktasvör.
+Vísbendingar, áfram/aftur, yfirlit, lyklaborð, endurhleðsla, nýjar tölur, skemmd og óaðgengileg vafrageymsla prófuð. Uppsetning allra skrefa prófuð í fjórum skjábreiddum frá 360 til 1360 px. Innfelld æfing opnast aðeins þegar smellt er á hana og lagar hæð að innihaldi.
+Framvinda er vistuð aðeins í vafra nemandans. Engin nöfn eða svör eru send til kennara. Fyrsta og önnur æfing hafa aðskilda framvindu.
+
+BIRTINGARSTAÐUR
+https://gnajons.github.io/Lota-30/#aefing-timi-2
+https://gnajons.github.io/Lota-30/aefingar/timi-2/

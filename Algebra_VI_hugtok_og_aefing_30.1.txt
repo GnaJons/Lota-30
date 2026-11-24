@@ -37,4 +37,4 @@ Grunnur: aðalgrein GnaJons/Lota-30, útgáfa 86a38998e4e0678fbdf92583493b3f113b
 Breyttar skrár: index.html, lota30-prent.pdf, LEIDBEININGAR.txt, þessi kennaranóta og nýjar skrár í aefingar/timi-1/.
 
 SÍÐARI UPPSETNINGARBREYTING 24.11.2026
-Átta skýringarmyndir lesefnis og rúmfræðimyndir æfingar eru nú 20% minni. HTML-merkingar, texti og stærðfræðiefni óbreytt. Samanburður við síðustu útgáfu staðfestir óbreytt innihald. Athugaðar voru fimm skjábreiddir, 360–1360 px, og prentútgáfa; merkingar og tengd skref haldast læsileg. Prent-PDF er áfram 23 síður. Þetta er aðeins stærðarbreyting, engin stytting efnis.
+Átta skýringarmyndir lesefnis eru nú 20% minni á vefnum og í prent-PDF. Minnkun inni í æfingunni var tekin til baka að ósk kennara; rúmfræðimyndir hennar halda fyrri stærð. HTML-merkingar, texti og stærðfræðiefni óbreytt. Athugaðar voru fimm skjábreiddir, 360–1360 px, og prentútgáfa; merkingar og tengd skref haldast læsileg. Prent-PDF er áfram 23 síður. Þetta er aðeins stærðarbreyting, engin stytting efnis.
