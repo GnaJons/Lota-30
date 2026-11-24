@@ -50,7 +50,7 @@ Mat: Nægur grunnur; pipruð samsett dæmi eru áfram sjálfstæð yfirfærsla.
 
 7. BLAÐ · 30.54–30.61
 30.54–30.59: Báðar ferningsreglur, miðliðurinn, stuðlar og brot. Fyrra dæmi 13 hafði stuðulinn 1 við breytuna. Það hefur verið skipt út fyrir stutt dæmi með tveimur breytum og stuðlinum 3. Nú sést skýrt í prentheftinu að allur liðurinn er hafinn í veldi og að stuðullinn tekur þátt í útreikningi miðliðar. Dæmi 14 heldur skrefum fyrir stuðul sem er brot.
-30.60: Flatarmálsskýring fyrri ferningsreglunnar er með og sýnir hvers vegna tveir ab-fletir gefa miðliðinn 2ab.
+30.60: Flatarmálsskýring ferningsreglu 1 er með og sýnir hvers vegna tveir ab-fletir gefa miðliðinn 2ab.
 30.61: Val á reglu fyrir hvern hluta, dreifing þátta og mínusmerkja, sameining liða og varfærin prófun með innsetningu eru með. Tilvísun í sameiginlegu skýringuna á lengri stæðum styrkir prentútgáfuna; myndband er viðbótarstuðningur.
 Mat: Nægur grunnur eftir styrkingu dæmis 13.
 

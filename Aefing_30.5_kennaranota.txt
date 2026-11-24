@@ -13,12 +13,12 @@ EFNISVÖRPUN
 30.41 → hluti 4, skref 8–9: mismunandi breytur í svigunum og tvær sameiginlegar breytur. Nemandi aðgreinir xy, x, y og fasta, en sameinar ab-liði þegar við á.
 30.42 → hluti 5, skref 10–11: stuðlar sem eru tugabrot með einni og tveimur breytum. Reiknað er nákvæmlega; milliskref eru ekki námunduð.
 30.43 → hluti 6, skref 12–13: fjögur margfeldi þar sem miðliðir falla út. Nemandi skráir núllstuðul. Í seinna dæminu kemur fastinn fyrst og stuðull við y² verður neikvæður. Ekki er krafist þekkingar á heiti samokareglunnar í kjarnanum.
-30.44 (piprað) → valfrjáls hluti 7, skref 14–17: heiti fyrri ferningsreglu, seinni ferningsreglu og samokareglu tengd við stæður. Síðan er reiknað eitt nýtt dæmi með hverri reglu.
+30.44 (piprað) → valfrjáls hluti 7, skref 14–17: heiti ferningsreglu 1, ferningsreglu 2 og samokareglu tengd við stæður. Síðan er reiknað eitt nýtt dæmi með hverri reglu.
 30.45a (piprað) → valfrjáls hluti 8, skref 18–19: lengri stæða unnin í hlutum. Fyrstu tvö margfeldin eru einfölduð, síðan bætast við margfeldi samoka tvíliða og tvær stæður sem eru hafnar í annað veldi. Stuðlar við x², xy og y² eru dregnir saman.
 30.45b (piprað) → valfrjáls hluti 8, skref 20–21: neikvæður þáttur framan við margfeldi samoka tvíliða með brotum, síðan heildarstæðan með tveimur stæðum í öðru veldi og þremur þáttum utan sviga. Jafngild brot og nákvæm tugabrot eru samþykkt. Brot eru sýnd í nauðsynlegum milliskrefum.
 
 SKÝRINGAR OG ORÐALAG
-Notuð eru samþykkt hugtök: tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, samokaregla, fyrri ferningsreglan og seinni ferningsreglan.
+Notuð eru samþykkt hugtök: tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, samokaregla, ferningsregla 1 og ferningsregla 2.
 Grunnleiðbeining: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.“ Tvær stigvaxandi vísbendingar fylgja hverju skrefi. Eftir rétt svar birtast nauðsynleg milliskref og einfölduð stæða.
 Svarreitir biðja skýrt um stuðla og fasta með formerkjum; 0 er skráð þegar liður fellur út. Tekið er við tugabrotskommu, punkti og almennum brotum. Brotin 3/4 og 6/8 eru jafngild svör. Broti með nefnara 0 er hafnað. Enginn nemendatexti er keyrður sem forrit.
 Myndin í fyrsta skrefi er merkt með x > 0. Myndstærð fylgir samþykktu æfingasniði. Lengri stæður skiptast á eðlilegum aðgerðamörkum í þröngu sniði.

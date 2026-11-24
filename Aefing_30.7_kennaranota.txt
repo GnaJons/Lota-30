@@ -6,29 +6,29 @@ Verkefnablað 30.7 dæmi.pdf lesið og skoðað í heild, þar á meðal brot, d
 Sex kjarnahlutar með 14 skrefum. Tvær valfrjálsar viðbætur með fimm skrefum. Þrjú yfirfarin talnaafbrigði, samtals 57 skref. Áætlaður tími í kjarnaæfingu er 10–15 mínútur.
 
 EFNISVÖRPUN
-30.54 → hluti 1, skref 1–2: fyrri ferningsreglan. Nemandi tengir ferning tvíliðu við margfeldi tveggja eins tvíliða, sér uppruna miðliðsins og reiknar síðan dæmi með stuðli við x. Tvöfalt margfeldi liðanna er sýnt í milliskrefum.
-30.55 → hluti 2, skref 3–4: seinni ferningsreglan. Nemandi velur stæðu með neikvæðum miðlið og jákvæðum síðasta lið og reiknar síðan stuðla sjálfur. Rangsvör greina milli ruglings við samokareglu og rangs formerkis á síðasta lið.
+30.54 → hluti 1, skref 1–2: ferningsregla 1. Nemandi tengir ferning tvíliðu við margfeldi tveggja eins tvíliða, sér uppruna miðliðsins og reiknar síðan dæmi með stuðli við x. Tvöfalt margfeldi liðanna er sýnt í milliskrefum.
+30.55 → hluti 2, skref 3–4: ferningsregla 2. Nemandi velur stæðu með neikvæðum miðlið og jákvæðum síðasta lið og reiknar síðan stuðla sjálfur. Rangsvör greina milli ruglings við samokareglu og rangs formerkis á síðasta lið.
 30.56 → hluti 3, skref 5–6: tvær breytur, með plús og mínus. Stuðlar við a², ab og b² eru aðgreindir. Bæði stuðull og bókstafahluti fara í annað veldi þegar við á; miðliðurinn inniheldur ab.
-30.57 → hluti 4, skref 7–8: fasti fyrst og stærri stuðlar í seinni ferningsreglunni. Svör eru skráð í röð bókstafaliða og fasta þótt röðin í sviganum sé önnur.
+30.57 → hluti 4, skref 7–8: fasti fyrst og stærri stuðlar í ferningsreglu 2. Svör eru skráð í röð bókstafaliða og fasta þótt röðin í sviganum sé önnur.
 30.58 → hluti 5, skref 9–11: almennt brot sem fasti, tugabrotsfasti og brot á undan bókstafalið. Allir þrír liðir niðurstöðunnar reiknaðir. Teljari og nefnari fara í annað veldi þegar brotið er hafið í annað veldi; miðliðurinn fæst með tvöföldu margfeldi, ekki með sama ferningi.
 30.59 → hluti 6, skref 12–14: stuðull og fasti sem eru tugabrot, stuðull sem er brot með mínus og stuðull sem er brot með plús. Jafngild brot eru samþykkt; nemandi þarf ekki að námunda endalaust tugabrot. Eitt afbrigði gefur stuðlana 25/36, 10/3 og 4.
-30.60 (piprað) → valfrjáls hluti 7, skref 15–16: flatarmál fernings með hlið p + q, síðan summa flatarmála fjögurra hluta. Ný litaskipt mynd sýnir p², pq, pq og q². Báðir rétthyrningarnir teljast með og gefa miðliðinn 2pq. Jafnan (p + q)² = p² + 2pq + q² tengir svörin og skýrir fyrri ferningsregluna.
-30.61a (piprað) → valfrjáls hluti 8, skref 17: fyrri og seinni ferningsregla ásamt samokareglu í sömu stæðu. Miðliðir geta fallið út; nemandi skráir núllstuðul. Svigar utan um síðasta frádráttarhlutann varðveita formerki.
+30.60 (piprað) → valfrjáls hluti 7, skref 15–16: flatarmál fernings með hlið p + q, síðan summa flatarmála fjögurra hluta. Ný litaskipt mynd sýnir p², pq, pq og q². Báðir rétthyrningarnir teljast með og gefa miðliðinn 2pq. Jafnan (p + q)² = p² + 2pq + q² tengir svörin og skýrir ferningsreglu 1.
+30.61a (piprað) → valfrjáls hluti 8, skref 17: ferningsreglur 1 og 2 ásamt samokareglu í sömu stæðu. Miðliðir geta fallið út; nemandi skráir núllstuðul. Svigar utan um síðasta frádráttarhlutann varðveita formerki.
 30.61b (piprað) → valfrjáls hluti 8, skref 18–19: almenn margföldun tvíliða fyrst, síðan tveir ferningar með þáttum fyrir framan. Fyrri niðurstaðan er sýnd þegar heildarstæðan er unnin. Þættir utan sviga margfaldast við alla þrjá liði og líkir liðir eru sameinaðir.
 
 SKÝRINGAR OG ORÐALAG
-Notuð eru samþykkt hugtök: fyrri ferningsreglan, seinni ferningsreglan, miðliður, samokaregla, tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, teljari, nefnari og flatarmál.
+Notuð eru samþykkt hugtök: ferningsregla 1, ferningsregla 2, miðliður, samokaregla, tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, teljari, nefnari og flatarmál.
 Ferningsregla merkir margföldun tvíliðu með sjálfri sér. Þegar tvíliður eru hvorki eins né samoka er notuð leiðbeiningin „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans“.
 Tvær stigvaxandi vísbendingar fylgja hverju skrefi. Rétt svar sýnir uppsetningu eða nauðsynleg milliskref og einfaldaða niðurstöðu. Svör eru stuðlar og fastar með formerkjum; 0 er skráð þegar liður fellur út.
 Svarreitir taka við kommu, punkti og almennum brotum. Jafngild brot eru samþykkt, svo sem 25/36 og 50/72 eða −4/3 og −8/6. Ógildum brotum, þar á meðal nefnara 0, er hafnað. Enginn nemendatexti er keyrður sem forrit.
 Flatarmálsmyndin er merkt með p > 0 og q > 0 og hefur textalýsingu fyrir skjálesara. Allir fjórir fletir eru litaðir; tveir eins rétthyrningar hafa sama lit. Litir styðja stærðfræðilegar merkingar en bera ekki upplýsingarnar einir.
 
 RÁÐFÆRING VIÐ NÁMSEFNI
-Skali 3A, Menntamálastofnun, prentuð bls. 136 og 139 lesnar um fyrri og seinni ferningsreglu, tengsl við margföldun tvíliða, miðliðinn og formerki. Aðferðir og heiti samræmd núverandi leskafla og samþykktum hugtökum kennarans. Eigið orðalag, eigin tölur og ný SVG-mynd samin fyrir æfinguna.
+Skali 3A, Menntamálastofnun, prentuð bls. 136 og 139 lesnar um ferningsreglur 1 og 2, tengsl við margföldun tvíliða, miðliðinn og formerki. Aðferðir og heiti samræmd núverandi leskafla og samþykktum hugtökum kennarans. Eigið orðalag, eigin tölur og ný SVG-mynd samin fyrir æfinguna.
 
 GÆÐAPRÓFUN OG VARÐVEISLA
 Öll 57 skref þriggja talnaafbrigða prófuð gegn sjálfstætt reiknuðum svarlykli. Tóm, röng og rétt svör, leiðrétting svara, vísbendingar, áfram/aftur, yfirlit, lyklaborð, endurhleðsla og endurtekning með nýjum tölum prófuð.
-Sérstaklega prófuð: neikvæðir miðliðir, jákvæður síðasti liður í seinni ferningsreglu, núllstuðull, brot og tugabrot í mismunandi stöðum, jafngild brot, fleiri breytur og lengri samsettar stæður. Vistun þriggja svarreita, skemmd og óaðgengileg vafrageymsla yfirfarin. Framvinda tíma 1–6 varðveitt og aðskilin.
+Sérstaklega prófuð: neikvæðir miðliðir, jákvæður síðasti liður í ferningsreglu 2, núllstuðull, brot og tugabrot í mismunandi stöðum, jafngild brot, fleiri breytur og lengri samsettar stæður. Vistun þriggja svarreita, skemmd og óaðgengileg vafrageymsla yfirfarin. Framvinda tíma 1–6 varðveitt og aðskilin.
 Allir skjáir prófaðir í fjórum breiddum 360–1360 px, samtals 228 framsetningar. Innfelld æfing prófuð í þremur breiddum, og öll afbrigði einnig við 360 px innfellda framsetningu. Engin lárétt skrun, klipptar stæður, JavaScript-villur eða brotnar efnisleiðir fundust. Engin nöfn eða svör eru send til kennara.
 Ekkert lesefni var stytt eða breytt. Sjö kaflar, 14 númeruð sýnidæmi, 25 hugtakaskýringar, gátlisti, myndir og myndbönd varðveitt. Prent-PDF og æfingar tíma 1–6 eru óbreytt. Ný æfing er falin við prentun.
 

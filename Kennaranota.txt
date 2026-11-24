@@ -12,7 +12,7 @@ Allir sjö tímarnir, yfirlitið, hugtakaskráin, myndmerkingar og gátlisti vor
 Lesið var úr öllum sjö verkefnablöðunum 30.1–30.7 og dæmavalið borið saman við þau. Grunnsýnidæmin nota aðrar stærðir en verkefnadæmin; engar fullar lausnir hagnýtra verkefna voru færðar í myndbönd eða lokaða reiti. Fyrirliggjandi myndbönd styðja grunnreikniaðferðirnar.
 
 ORÐALAG OG TÁKN
-Notað er „liðir“, „kvóti“, „veldisstofn“, „radíus (geisli)“ við fyrstu kynningu, „fyrri ferningsreglan“ og „seinni ferningsreglan“. Stuðull er talan sem margfaldar bókstafahluta liðar. Við margföldun tvíliða segir: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.“ Notaðar eru lýsingarnar „stuðlar sem eru brot“ og „stuðlar sem eru tugabrot“.
+Notað er „liðir“, „kvóti“, „veldisstofn“, „radíus (geisli)“ við fyrstu kynningu, „ferningsregla 1“ og „ferningsregla 2“. Stuðull er talan sem margfaldar bókstafahluta liðar. Við margföldun tvíliða segir: „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.“ Notaðar eru lýsingarnar „stuðlar sem eru brot“ og „stuðlar sem eru tugabrot“.
 
 Yfirborðsflatarmál er táknað YF, rúmmál R og flatarmál F. Brúnarlengd tenings er h. Greint er milli formerkis tölugildis og mínusmerkis í reglu. Skilyrðið um veldisstofn frábrugðinn núlli kemur fram við deilingarreglu og núllta eða neikvæða veldisvísa. Innsetning getur bent á villu en ein innsetning sannar ekki almennt jafngildi stæðna.
 
@@ -32,7 +32,7 @@ Samþykkt grunnletur, línubil, litir, flakk og vatnsmerki haldast. Þétting by
 Skali 2A, nemendabók, Menntamálastofnun: prentaðar bls. 29–30 (veldi og veldareglur), 45 (staðalform stórra talna), 48 (reikningur á staðalformi) og 50 (staðalform lítilla talna). Samsvara PDF-síðum 31–32, 47, 50 og 52.
 https://vefir.mms.is/flettibaekur/namsefni/skali2anem/files/assets/common/downloads/publication.pdf
 
-Skali 3A, nemendabók, Menntamálastofnun: prentaðar bls. 132 (margföldun tvíliða), 136–137 (fyrri ferningsreglan og flatarmál), 139 (seinni ferningsreglan) og 142 (samokareglan). Samsvara PDF-síðum 134, 138–139, 141 og 144.
+Skali 3A, nemendabók, Menntamálastofnun: prentaðar bls. 132 (margföldun tvíliða), 136–137 (ferningsregla 1 og flatarmál), 139 (ferningsregla 2) og 142 (samokareglan). Samsvara PDF-síðum 134, 138–139, 141 og 144.
 https://vefir.mms.is/flettibaekur/namsefni/skali3aneme/files/assets/common/downloads/publication.pdf
 
 Aðferðir og reikniskref voru borin saman við þessar síður. Dæmi bókanna voru ekki afrituð. Heitaval kennara gengur áfram framar öðrum viðurkenndum heitum í bókunum. Orðalag bókar um formerki miðliðar var ekki endurtekið sem fullyrðing um að tölugildið sé alltaf neikvætt.

@@ -63,14 +63,14 @@ const ExerciseData=(()=>{
   q.push(coeff(5,'Skoðaðu röðina og formerkin','Margfaldaðu tvíliðurnar. Skráðu stuðlana við y² og y og síðan fastann.',math(br(poly([a,b],['','y']))+br(poly([a,-b],['','y']))),quadratic(co),yvars,expandExplanation(co,yvars),['Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans.','Stuðlarnir við y hafa gagnstæð formerki. Stuðullinn við y² verður því neikvæður.']));
   q.push(choice(6,'Þrjár reglur','Pipraða viðbótin notar reglurnar úr 6. og 7. tíma. Í hvaða röð passa heitin við A, B og C?',
    '<div class="rule-list"><p>A: '+math(pow(br(poly([1,1],['a','b']))))+'</p><p>B: '+math(pow(br(poly([1,-1],['a','b']))))+'</p><p>C: '+math(product([1,1,1,-1],['a','b']))+'</p></div>',
-   ['Samokareglan · Fyrri ferningsreglan · Seinni ferningsreglan','Fyrri ferningsreglan · Seinni ferningsreglan · Samokareglan','Seinni ferningsreglan · Fyrri ferningsreglan · Samokareglan'],1,
-   '<p>A: Fyrri ferningsreglan.</p><p>B: Seinni ferningsreglan.</p><p>C: Samokareglan.</p>',
-   ['Ferningsreglurnar fjalla um tvíliðu sem er hafin í annað veldi.','Fyrri ferningsreglan hefur plús í sviganum. Seinni hefur mínus. Samokareglan tengir summu og mismun sömu liða.'],'Skoðaðu hvort tvíliða er hafin í annað veldi eða hvort tvær samoka tvíliður eru margfaldaðar saman.'));
+   ['Samokareglan · Ferningsregla 1 · Ferningsregla 2','Ferningsregla 1 · Ferningsregla 2 · Samokareglan','Ferningsregla 2 · Ferningsregla 1 · Samokareglan'],1,
+   '<p>A: Ferningsregla 1.</p><p>B: Ferningsregla 2.</p><p>C: Samokareglan.</p>',
+   ['Ferningsreglurnar fjalla um tvíliðu sem er hafin í annað veldi.','Ferningsregla 1 hefur plús í sviganum. Ferningsregla 2 hefur mínus. Samokareglan tengir summu og mismun sömu liða.'],'Skoðaðu hvort tvíliða er hafin í annað veldi eða hvort tvær samoka tvíliður eru margfaldaðar saman.'));
   [a,b]=d.plus;co=[a,b,a,b];
-  q.push(coeff(6,'Fyrri ferningsreglan í verki','Einfaldaðu stæðuna. Þú mátt líka margfalda tvíliðuna við sjálfa sig.',math(pow(br(poly([a,b],['x',''])))),quadratic(co),xvars,
+  q.push(coeff(6,'Ferningsregla 1 í verki','Einfaldaðu stæðuna. Þú mátt líka margfalda tvíliðuna við sjálfa sig.',math(pow(br(poly([a,b],['x',''])))),quadratic(co),xvars,
    expandExplanation(co),['(a + b)² = a² + 2ab + b².','Miðliðurinn er tvöfalt margfeldi liðanna innan svigans.']));
   [a,b]=d.minus;co=[a,-b,a,-b];
-  q.push(coeff(6,'Seinni ferningsreglan í verki','Einfaldaðu stæðuna og gættu að mínusmerkinu á undan miðliðnum.',math(pow(br(poly([a,-b],['x',''])))),quadratic(co),xvars,
+  q.push(coeff(6,'Ferningsregla 2 í verki','Einfaldaðu stæðuna og gættu að mínusmerkinu á undan miðliðnum.',math(pow(br(poly([a,-b],['x',''])))),quadratic(co),xvars,
    expandExplanation(co),['(a − b)² = a² − 2ab + b².','Mínus er á undan miðliðnum og plús á undan síðasta liðnum.']));
   [a,b]=d.ruleConj;co=[a,b,a,-b];
   q.push(coeff(6,'Samokareglan í verki','Einfaldaðu stæðuna. Skráðu 0 fyrir lið sem fellur út.',math(product(co)),quadratic(co),xvars,
