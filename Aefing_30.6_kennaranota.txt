@@ -1,0 +1,39 @@
+ALGEBRA VI · LOTA 30 · ÆFING FYRIR 6. TÍMA
+24. nóvember 2026
+
+HEIMILD OG UMFANG
+Verkefnablað 30.6 dæmi.pdf lesið og skoðað í heild, báðar síður og báðar flatarmálsmyndir. Sjötti kafli núverandi lesvefs lesinn til samræmingar. Æfingin notar nýjar sambærilegar tölur og afritar ekki verkefnadæmi eða sýnidæmi lesefnisins.
+Sex kjarnahlutar með 15 skrefum. Tvær valfrjálsar viðbætur með fimm skrefum. Þrjú yfirfarin talnaafbrigði, samtals 60 skref. Áætlaður tími í kjarnaæfingu er 10–15 mínútur.
+Blaðið heitir „Samoka og ferningsreglur“ en viðfangsefni kjarnans er samokaregla, almenn margföldun þegar reglan á ekki við, einföldun og innsetning. Æfingin fylgir því efninu sjálfu og heitir „Samokaregla“, eins og leskaflinn.
+
+EFNISVÖRPUN
+30.46 → hluti 1, skref 1–2: samokareglan og miðliðir sem falla út. Fyrst fjölval með skýringunni á eyðingu miðliðanna; síðan stuðlar og fasti, þar á meðal núllstuðull. Reikna þarf annað veldi alls liðarins, bæði stuðuls og bókstafahluta.
+30.47 → hluti 2, skref 3–5: fasti fyrst, tvær breytur og tugabrotsstuðlar. Stuðull við bókstafslið getur orðið neikvæður eftir því hvaða liður hefur gagnstæð formerki. Tugabrot eru reiknuð nákvæmlega.
+30.48 → hluti 3, skref 6–8: endurröðun til að finna sameiginlegan lið, brot sem fasti og brotastuðull við breytu. Teljari og nefnari fara báðir í annað veldi. Jafngild brot eru samþykkt; ekki þarf að breyta broti í námundað tugabrot.
+30.49 → hluti 4, skref 9–11: greina samoka tvíliður frá öðrum tvíliðum. Dæmi af sömu gerð og 30.49d er ekki leysanlegt beint með samokareglunni vegna stuðlanna. Nemandi velur fyrst aðferð og margfaldar síðan lið fyrir lið. Síðasta skrefið notar tugabrotsstuðla og endurröðun þar sem y-liður er eins í báðum svigum.
+30.50 → hluti 5, skref 12–13: mismunur tveggja samokumargfelda; síðan fasti og neikvæður þáttur framan við samokumargfeldi. Svigar utan um niðurstöðu frádráttarhlutans varðveita formerki.
+30.51 → hluti 6, skref 14–15: tvö samokumargfeldi með þáttum utan sviga og fasti. Stæðan er einfölduð áður en neikvætt gildi er sett inn. Svigar utan um neikvæða innsetningu og forgangsröð aðgerða eru sýnd.
+30.52 (piprað) → valfrjáls hluti 7, skref 16–18: summa flatarmála tveggja litaðra hluta er p² − q². Sömu hlutum er endurraðað í rétthyrning með hliðar p + q og p − q. Jafnt flatarmál skýrir samokaregluna. Loks er flatarmálið reiknað með nýjum tölulegum lengdum og báðar leiðir sýndar.
+30.53 (piprað) → valfrjáls hluti 8, skref 19–20: dreifiregla og samokaregla í lengri stæðu. Fyrstu tveir hlutarnir eru einfaldaðir fyrst. Síðan bætast við tvö frádráttarmargfeldi og allir líkir liðir eru dregnir saman.
+
+SKÝRINGAR OG ORÐALAG
+Notuð eru samþykkt hugtök: samokaregla, samoka tvíliður, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, teljari, nefnari og flatarmál. „Margfaldaðu hvorn lið fyrri svigans við báða liði seinni svigans“ er notað þegar samokareglan á ekki við.
+Tvær stigvaxandi vísbendingar fylgja hverju skrefi. Rétt svar sýnir nauðsynleg milliskref. Nemandi skráir stuðla og fasta með formerkjum, og 0 þegar liður fellur út. Talnasvör hafa sérstakt heiti; flatarmál er skráð í cm².
+Svarreitir taka við tugabrotskommu, punkti og nákvæmum almennum brotum. Bæði 25/36 og 50/72 eru samþykkt í viðeigandi afbrigði. Ógildum brotum, þar á meðal nefnara 0, er hafnað.
+Nýju flatarmálsmyndirnar lita allan afganginn utan litla ferningsins með tveimur litum. Því er skýrt að báðir hlutar teljast með og að þeir haldi flatarmáli sínu við endurröðun. p > q > 0 er tekið fram. Myndirnar hafa textalýsingar fyrir skjálesara.
+
+RÁÐFÆRING VIÐ NÁMSEFNI
+Skali 3A, Menntamálastofnun, prentuð bls. 142 lesin um samokareglu, summu og mismun sömu liða, eyðingu miðliða og reikninga með brotum. Eigið orðalag, eigin tölur og nýjar SVG-myndir samdar fyrir æfinguna.
+
+GÆÐAPRÓFUN OG VARÐVEISLA
+Öll 60 skref þriggja talnaafbrigða prófuð gegn sjálfstætt reiknuðum svarlykli. Tóm, röng og rétt svör, leiðrétting svara, vísbendingar, áfram/aftur, yfirlit, lyklaborð og endurtekning með nýjum tölum prófuð.
+Sérstaklega prófuð: núllstuðlar, neikvæðir stuðlar, tugabrot, jafngild brot, endurröðun liða, tilfelli þar sem samokareglan á ekki við, innsetning neikvæðs gildis og flatarmál. Vistun margra svarreita, skemmd og óaðgengileg vafrageymsla yfirfarin. Framvinda tíma 1–5 varðveitt og aðskilin.
+Allir skjáir prófaðir í fjórum breiddum 360–1360 px, samtals 240 framsetningar. Innfelld æfing prófuð í þremur breiddum og öll afbrigði einnig við 360 px innfellda framsetningu. Lengri margfeldi með tugabrotum skiptast á milli þátta með skýru margföldunarmerki. Engin nöfn eða svör eru send til kennara.
+Ekkert lesefni var stytt eða breytt. Sjö kaflar, 14 númeruð sýnidæmi, 25 hugtakaskýringar, gátlisti, myndir og myndbönd varðveitt. Prent-PDF og æfingar tíma 1–5 eru óbreytt. Ný æfing er falin við prentun.
+
+BIRTING
+Heimild: 30.6 dæmi.pdf. Áfangastaður: GnaJons/Lota-30, grein main, neðst í section#timi-6.
+Grunnútgáfa: b3cb16b0c83a8e51e33a5934a9b4c3f929483ad2.
+Breyttar skrár: index.html, LEIDBEININGAR.txt, þessi kennaranóta og nýjar skrár í aefingar/timi-6/.
+https://gnajons.github.io/Lota-30/#aefing-timi-6
+https://gnajons.github.io/Lota-30/aefingar/timi-6/
