@@ -20,3 +20,6 @@ NÝTT Í ÞESSARI ÚTGÁFU
 Æfingin „Veldi og stæður“ er neðst í fyrsta tíma. Opnaðu reitinn eða sérslóðina https://gnajons.github.io/Lota-30/aefingar/timi-1/ . Þar eru sjö kjarnahlutar og tveir valfrjálsir viðbótarhlutar. Nýjar tölur skipta á milli þriggja prófaðra afbrigða.
 Framvinda æfingarinnar geymist í sama vafra ef hann leyfir það. Svör eru ekki send til kennara. Æfingin er aðeins á vefnum.
 Algebra_VI_hugtok_og_aefing_30.1.txt lýsir þessari viðbót. Eldri kennaranótur lýsa fyrri yfirferð lesefnisins.
+
+MYNDSTÆRÐ
+Skýringarmyndir í lesefni og æfingu minnkaðar um 20% 24. nóvember 2026 að beiðni kennara. Myndir eru miðjaðar og halda stærðarhlutföllum. Prent-PDF uppfært í samræmi. Texti, hugtök og reikningar eru óbreytt.

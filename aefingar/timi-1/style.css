@@ -15,3 +15,7 @@ math msup> :last-child{color:var(--orange)}
 .progress i:nth-child(8){margin-left:10px}.progress i:nth-child(n+8){height:3px;align-self:center}
 @media(max-width:600px){.top{gap:12px}.brand{gap:8px}.brand strong{font-size:15px}.brand span{font-size:10px;letter-spacing:.2px}.algebra-board{min-height:160px;padding:14px 8px}.answer-fields{gap:12px}.answer-field input{width:136px}.bottom{align-items:flex-start;flex-wrap:wrap}.actions{margin-left:auto;flex-wrap:wrap;justify-content:flex-end}.footnote{overflow-wrap:anywhere}}
 
+
+/* Smaller geometry illustrations; formulas and controls keep their sizes. */
+.board.algebra-board svg{width:80%;max-width:416px;max-height:248px}
+@media(max-width:600px){.board.algebra-board svg{max-height:212px}}
