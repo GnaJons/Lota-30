@@ -1,6 +1,6 @@
 'use strict';
 const ExerciseData=(()=>{
- const names=['Skrifa á staðalformi','Skrifa án tugvelda','Margfalda og deila','Reikna með venjulegum tölum','Milljónir og milljarðar','Finna fjölda agna','Notkun á ári','Rúmmál kúlu','Flatarmál á mann'];
+ const names=['Skrifa á staðalformi','Skrifa án tugvelda','Margfalda og deila','Reikna með tölum án tugvelda','Milljónir og milljarðar','Finna fjölda agna','Notkun á ári','Rúmmál kúlu','Flatarmál á mann'];
  const starts=[0,2,4,6,8,11,13,14,16],coreCount=14,coreGroups=7;
  const variants=[
   {large:6720000,small:.0000486,plainBig:[7.35,4],plainSmall:[6.4,-5],mul:[4,6,7,-3],div:[5,4,8,-2],ordinaryProd:[720000,.000025],ordinaryDiv:[.00000048,.08],millions:[3,.0024],billions:[2.4,600000],particles:[.84,4.2,-24],daily:240,radius:1.8e6,land:[8e5,25,4e6,10]},
@@ -35,16 +35,16 @@ const ExerciseData=(()=>{
   let [c,n]=d.plainBig,value=c*10**n;
   q.push(number(1,'Án tugvelda','Skrifaðu töluna á venjulegum rithætti, án tugvelda.',math(sf(c,n)),value,'Talan',work(sf(c,n)+mo('=')+mn(readable(value))),['Þegar veldisvísirinn á 10 er jákvæður stækkar talan við margföldunina.',`Færðu kommuna ${n} sæti til hægri.`]));
   [c,n]=d.plainSmall;value=Number((c*10**n).toPrecision(12));
-  q.push(number(1,'Lítið tugveldi','Skrifaðu töluna án tugvelda. Gættu að núllunum á undan fyrsta tölustafnum.',math(sf(c,n)),value,'Talan',work(sf(c,n)+mo('=')+mn(decimal(value))),['Neikvæður veldisvísir á 10 gerir töluna litla, ekki neikvæða.',`Færðu kommuna ${-n} sæti til vinstri.`]));
+  q.push(number(1,'Tugveldi með neikvæðum veldisvísi','Skrifaðu töluna án tugvelda. Gættu að núllunum á undan fyrsta tölustafnum.',math(sf(c,n)),value,'Talan',work(sf(c,n)+mo('=')+mn(decimal(value))),['Tugveldi með neikvæðum veldisvísi er milli 0 og 1.',`Færðu kommuna ${-n} sæti til vinstri.`]));
   let [a,m,b,k]=d.mul;value=a*b*10**(m+k);
-  q.push(science(2,'Margfaldaðu og lagaðu stuðulinn','Reiknaðu margfeldið og skráðu svarið á staðalformi.',math(sf(a,m)+mo('·')+sf(b,k)),value,
-   work(sf(a*b,m+k),mo('=')+sf(...normalize(value))),['Margfaldaðu stuðlana og leggðu veldisvísana saman.','Ef stuðullinn verður 10 eða stærri þarftu að færa kommu og laga veldisvísinn.']));
+  q.push(science(2,'Margfaldaðu og skrifaðu á staðalformi','Reiknaðu margfeldið og skráðu svarið á staðalformi.',math(sf(a,m)+mo('·')+sf(b,k)),value,
+   work(sf(a*b,m+k),mo('=')+sf(...normalize(value))),['Margfaldaðu stuðlana og leggðu veldisvísana saman.','Ef stuðullinn verður 10 eða stærri færirðu kommuna til vinstri og hækkar veldisvísinn um einn fyrir hvert sæti.']));
   [a,m,b,k]=d.div;value=a/b*10**(m-k);
-  q.push(science(2,'Deildu með litlu tugveldi','Reiknaðu kvótann og skráðu svarið á staðalformi.',math(fraction(sf(a,m),sf(b,k))),value,
-   work(sf(Number((a/b).toPrecision(12)),m-k),mo('=')+sf(...normalize(value))),['Deildu stuðlunum. Dragðu veldisvísi nefnarans frá veldisvísi teljarans.',`Hér verður veldisvísirinn fyrst ${m} − (${fmt(k)}). Ef stuðullinn er minni en 1 þarf að laga hann.`]));
+  q.push(science(2,'Deiling með tölu á staðalformi','Reiknaðu kvótann og skráðu svarið á staðalformi.',math(fraction(sf(a,m),sf(b,k))),value,
+   work(sf(Number((a/b).toPrecision(12)),m-k),mo('=')+sf(...normalize(value))),['Deildu stuðlunum. Dragðu veldisvísi nefnarans frá veldisvísi teljarans.',`Hér verður veldisvísirinn fyrst ${m} − (${fmt(k)}). Ef stuðullinn er minni en 1 færirðu kommuna til hægri og lækkar veldisvísinn um einn fyrir hvert sæti.`]));
   [a,b]=d.ordinaryProd;value=Number((a*b).toPrecision(12));
-  q.push(science(3,'Byrjaðu með venjulegar tölur','Reiknaðu og skráðu svarið á staðalformi.',math(mn(readable(a))+mo('·')+mn(decimal(b))),value,
-   work(sf(...normalize(a))+mo('·')+sf(...normalize(b)),mo('=')+sf(...normalize(value))),['Skrifaðu fyrst hvora tölu á staðalformi.','Margfaldaðu stuðlana og leggðu veldisvísana saman. Lagaðu stuðulinn að lokum.']));
+  q.push(science(3,'Byrjaðu með tölur án tugvelda','Reiknaðu og skráðu svarið á staðalformi.',math(mn(readable(a))+mo('·')+mn(decimal(b))),value,
+   work(sf(...normalize(a))+mo('·')+sf(...normalize(b)),mo('=')+sf(...normalize(value))),['Skrifaðu fyrst hvora tölu á staðalformi.','Margfaldaðu stuðlana og leggðu veldisvísana saman. Skrifaðu niðurstöðuna á staðalformi að lokum.']));
   [a,b]=d.ordinaryDiv;value=Number((a/b).toPrecision(12));
   q.push(science(3,'Deiling lítilla talna','Reiknaðu kvótann og skráðu svarið á staðalformi.',math(fraction(mn(decimal(a)),mn(decimal(b)))),value,
    work(fraction(sf(...normalize(a)),sf(...normalize(b))),mo('=')+sf(...normalize(value))),['Breyttu báðum tölum í staðalform.','Deildu stuðlunum og dragðu veldisvísa tugveldanna frá.']));
@@ -59,7 +59,7 @@ const ExerciseData=(()=>{
    work(fraction(sf(a,9),sf(...normalize(b))),mo('=')+sf(...normalize(value))),['Skrifaðu nefnarann á staðalformi.','Deildu stuðlunum og dragðu veldisvísana frá.']));
   const [mass,particle,e]=d.particles;value=mass/(particle*10**e);
   const particleBoard=given(`Heildarmassi: ${math(mn(fmt(mass)))} kg`,`Massi einnar agnar: ${math(sf(particle,e))} kg`);
-  q.push(choice(5,'Hvernig finnurðu fjöldann?','Í reiknilíkani hafa allar agnir sama massa. Hvaða aðgerð finnur fjölda agna í safninu?',particleBoard,
+  q.push(choice(5,'Hvernig finnurðu fjöldann?','Í þessu dæmi hafa allar agnir sama massa. Hvaða aðgerð finnur fjölda agna í safninu?',particleBoard,
    ['Massi einnar agnar deilt með heildarmassa.','Heildarmassi margfaldaður með massa einnar agnar.','Heildarmassi deilt með massa einnar agnar.'],2,
    'Fjöldi fæst með því að deila heildarmassanum með massa hverrar agnar.', ['Hugsaðu um hve oft massi einnar agnar gengur upp í heildarmassann.','Báðir massarnir eru í kg, svo einingarnar eru þegar samræmdar.']));
   q.push(science(5,'Hve margar agnir?','Reiknaðu fjöldann og skráðu hann á staðalformi.',particleBoard,value,
@@ -75,20 +75,20 @@ const ExerciseData=(()=>{
   value=4/3*Math.PI*d.radius**3;
   let [rc,rn]=normalize(value);rc=Number(rc.toPrecision(3));
   q.push(science(7,'Rúmmál á staðalformi','Notaðu reiknivél og π-hnappinn. Skráðu rúmmálið í m³ á staðalformi með þremur markverðum tölustöfum.',given(`Radíus: ${radius} m`,math(mi('R')+mo('=')+formula)),value,
-   work(mi('R')+mo('≈')+sf(rc,rn,3))+' m³. Námundaðu aðeins lokasvarið.', ['Settu allan radíusinn í sviga og hefðu í þriðja veldi.','Bæði stuðullinn og tugveldið eru hafin í þriðja veldi. Haltu þremur markverðum tölustöfum í lokin.'],3));
+   work(mi('R')+mo('≈')+sf(rc,rn,3))+' m³. Námundaðu aðeins lokasvarið.', ['Settu radíusinn í sviga og reiknaðu þriðja veldi hans.','Bæði stuðullinn og tugveldið eru hafin í þriðja veldi. Haltu þremur markverðum tölustöfum í lokin.'],3));
   const [total,percent,population,eventArea]=d.land;
   value=total*(percent/100)*1e6/population;
   q.push(science(8,'Land á hvern íbúa','Í þessu tilbúna dæmi er hluti svæðisins land. Hve margir fermetrar lands eru að meðaltali á hvern íbúa? Skráðu svarið á staðalformi.',
    given(`Heildarflatarmál: ${normalMath(total)} km²`,`${percent}% svæðisins er land.`,`Íbúar: ${normalMath(population)}`),value,
    work(mn(readable(total*percent/100))+mo('·')+ten(6)+mo('=')+sf(...normalize(total*percent/100*1e6)),
    fraction(sf(...normalize(total*percent/100*1e6)),sf(...normalize(population)))+mo('=')+sf(...normalize(value)))+' m² á mann.',
-   ['Finndu fyrst landið með því að margfalda heildarflatarmálið með prósentunni sem hundraðshluta.','1 km² = 10⁶ m². Breyttu í m² og deildu svo með fjölda íbúa.']));
+   ['Finndu fyrst flatarmál landsins með því að margfalda heildarflatarmálið með prósentunni sem hundraðshluta.','1 km² = 10⁶ m². Breyttu í m² og deildu svo með fjölda íbúa.']));
   const space=eventArea*1e6/population;
-  q.push(number(8,'Rými á mann','Sami íbúafjöldi á að safnast saman á öðru svæði. Hve margir fermetrar verða á mann? Skráðu tölu án tugvelda.',given(`Svæðið: ${fmt(eventArea)} km²`,`Fjöldi fólks: ${normalMath(population)}`),space,'Fermetrar á mann',
+  q.push(number(8,'Flatarmál á mann','Sami íbúafjöldi á að safnast saman á öðru svæði. Hve margir fermetrar verða á mann? Skráðu tölu án tugvelda.',given(`Svæðið: ${fmt(eventArea)} km²`,`Fjöldi fólks: ${normalMath(population)}`),space,'Fermetrar á mann',
    work(fraction(mn(readable(eventArea*1e6)),mn(readable(population)))+mo('=')+mn(fmt(space)))+' m² á mann.', ['Breyttu flatarmálinu úr km² í m².','Deildu fermetrafjöldanum með fjölda fólks.']));
-  q.push(choice(8,'Dugar rýmið?','Í skipulagningunni er miðað við að hver maður þurfi að minnsta kosti 3 m². Dugar svæðið samkvæmt því viðmiði?',given(`Útreiknað rými: ${fmt(space)} m² á mann`,'Viðmið: 3 m² á mann'),
-   ['Já, útreiknað rými er að minnsta kosti 3 m² á mann.','Nei, útreiknað rými er minna en 3 m² á mann.','Það nægir að flatarmálið sé stór tala.'],space>=3?0:1,
-   space>=3?'Já, rýmið á mann nær gefnu viðmiði.':'Nei, rýmið á mann nær ekki gefnu viðmiði.', ['Berðu saman rýmið á mann og gefið viðmið.','Niðurstaðan um hvort svæði dugi þarf að byggja á skýru viðmiði.']));
+  q.push(choice(8,'Dugar svæðið?','Í skipulagningunni er miðað við að hver maður þurfi að minnsta kosti 3 m². Dugar svæðið samkvæmt því viðmiði?',given(`Útreiknað flatarmál: ${fmt(space)} m² á mann`,'Viðmið: 3 m² á mann'),
+   ['Já, útreiknað flatarmál er að minnsta kosti 3 m² á mann.','Nei, útreiknað flatarmál er minna en 3 m² á mann.','Það nægir að flatarmálið sé stór tala.'],space>=3?0:1,
+   space>=3?'Já, flatarmálið á mann nær gefnu viðmiði.':'Nei, flatarmálið á mann nær ekki gefnu viðmiði.', ['Berðu saman flatarmálið á mann og gefið viðmið.','Niðurstaðan um hvort svæði dugi þarf að byggja á skýru viðmiði.']));
   return q;
  }
  return {names,starts,coreCount,coreGroups,variants,tasks,group:pos=>starts.findLastIndex(x=>pos>=x),fmt};

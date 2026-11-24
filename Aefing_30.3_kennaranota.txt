@@ -13,7 +13,7 @@ VÖRPUN VERKEFNA Í ÆFINGU
 30.23 → hluti 5, skref 8–9 → greina líka liði og einfalda mismun tveggja svigastæðna → fjölval og stuðlasvör. Bókstafahluti og veldisvísar þurfa að vera eins; fastar sameinaðir sérstaklega.
 30.24 → hluti 6, skref 10–12 → reikna með tveimur breytum, mínus fyrir þremur liðum og liðum sem falla út → stuðlar með formerkjum og fasti. Núll skráð þegar stuðull verður 0; endurgjöf sýnir einfölduðu stæðuna án liðarins.
 30.25 → hluti 7, skref 13 → innsetning í líkan með fyrsta, öðru og þriðja veldi → talnasvar í lítrum. Tilbúið líkan af vatnsmagni kemur í stað flensufaraldurs; tími, einingar og gildissvið líkansins eru skýr.
-30.26 (piprað) → valfrjáls hluti 8, skref 14 → innsetning í líkan með tugabrotsstuðlum og öðru veldi → hemlunarvegalengd í metrum. Þetta er reiknidæmi um gefið líkan, ekki fullyrðing um almenna hemlunarvegalengd við raunverulegar aðstæður.
+30.26 (piprað) → valfrjáls hluti 8, skref 14 → innsetning í líkan með stuðlum sem eru tugabrot og öðru veldi → hemlunarvegalengd í metrum. Þetta er reiknidæmi um gefið líkan, ekki fullyrðing um almenna hemlunarvegalengd við raunverulegar aðstæður.
 30.27 (piprað) → valfrjáls hluti 9, skref 15–16 → mynda mismun tveggja stæðna, einfalda og setja fjölda nafna inn → stuðlar og tímasparnaður í millisekúndum. Báðir liðir seinni stæðunnar dregnir frá.
 
 SVÖR, SKÝRINGAR OG ORÐALAG

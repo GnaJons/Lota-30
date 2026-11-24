@@ -9,11 +9,11 @@ Heiti lotunnar er Algebra VI. Öll 15 atriðin í prófhugtakalista kennara eru 
 Heimild: 30.1 dæmi.pdf, báðar síður og allar myndir lesnar og skoðaðar. Nýjar sambærilegar tölur; þetta er stuðningsæfing, ekki afrit verkefnablaðsins.
 30.1 → margföldun velda og stuðla → hluti 1.
 30.2 → deiling stuðla og veldisvísa; þættir eftir í nefnara → hluti 2.
-30.3 → veldisvísir 0 og ósýnilegur veldisvísir 1 → hluti 3.
+30.3 → veldisvísir 0 og veldisvísir 1 sem ekki er skrifaður → hluti 3.
 30.4 → margföldun þriggja þátta, einnig tugabrot → hluti 4.
 30.5 → allur liðurinn hafinn í annað veldi → hluti 5.
 30.6 → rúmmál rétthyrnds kassa út frá bókstafalengdum → hluti 6.
-30.7 → flatarmál rétthyrnings, einnig tugabrotsstuðull → hluti 7.
+30.7 → flatarmál rétthyrnings, einnig stuðull sem er tugabrot → hluti 7.
 30.8 (piprað) → einföldun með fleiri breytum → valfrjáls hluti 8. Margfeldi hafið í veldi er þegar æft í kjarna.
 30.9 (piprað) → munur á margföldun og samlagningu ólíkra liða → valfrjáls hluti 9.
 Í fyrirmælum 30.6 stendur „teninganna“, en teikningarnar sýna rétthyrnda kassa. Æfingin notar því „kassi“ og rétta rúmmálsreglu.

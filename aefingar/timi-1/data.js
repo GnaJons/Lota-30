@@ -1,6 +1,6 @@
 'use strict';
 const ExerciseData = (() => {
-  const names=['Margfalda veldi','Deila veldum','Núll og ósýnilegur veldisvísir','Margfalda fleiri þætti','Hefja lið í veldi','Rúmmál kassa','Flatarmál rétthyrnings','Fleiri breytur','Margfeldi eða summa'];
+  const names=['Margfalda veldi','Deila veldum','Veldisvísarnir 0 og 1','Margfalda fleiri þætti','Hefja lið í veldi','Rúmmál kassa','Flatarmál rétthyrnings','Fleiri breytur','Margfeldi eða summa'];
   const starts=[0,2,4,6,7,8,10,12,13];
   const variants=[
     {prod:[3,2,4,5],quot:[21,6,7,2],inverse:[12,2,18,5],zero:4,recip:3,factors:[2,1.5,4,2,1,3],square:[4,2],box:[2,3,7],area:[2.4,3],multi:[24,3,2,8,2,4],sum:[4,2,5,3]},
@@ -30,7 +30,7 @@ const ExerciseData = (() => {
     let [a,m,b,n]=d.prod;
     let product=term(a,'x',m)+mo('·')+term(b,'x',n);
     out.push(choice(0,'Hvaða regla á við?','Þú ert að margfalda veldi með sama veldisstofni.',math(product),['Margfalda veldisvísana.','Leggja veldisvísana saman.','Draga veldisvísana frá.'],1,'Veldisstofninn helst og veldisvísarnir eru lagðir saman.', ['Hugsaðu um veldin sem endurtekna margföldun.','Teldu alla x-þættina í margfeldinu.']));
-    out.push(numbers(0,'Finndu stuðul og veldisvísi','Einfaldaðu margfeldið. Skráðu stuðulinn og veldisvísinn í sitt hvorn reit.',math(product),[a*b,m+n],equation(product,term(a*b,'x',m+n)),['Margfaldaðu stuðlana hvorn við annan.',`Leggðu saman veldisvísana ${m} og ${n}.`]));
+    out.push(numbers(0,'Finndu stuðul og veldisvísi','Einfaldaðu margfeldið. Skráðu stuðulinn og veldisvísinn hvort í sinn reit.',math(product),[a*b,m+n],equation(product,term(a*b,'x',m+n)),['Margfaldaðu stuðlana hvorn við annan.',`Leggðu saman veldisvísana ${m} og ${n}.`]));
     [a,m,b,n]=d.quot;
     let quotient=frac(term(a,'x',m),term(b,'x',n));
     out.push(numbers(1,'Deildu stuðlum og veldum','Einfaldaðu brotið. Hér er x ekki núll.',math(quotient),[a/b,m-n],equation(quotient,term(a/b,'x',m-n)),[`Deildu ${a} með ${b}.`,`Dragðu veldisvísi nefnarans frá veldisvísi teljarans: ${m} − ${n}.`]));
@@ -38,14 +38,14 @@ const ExerciseData = (() => {
     const gcd=(x,y)=>y?gcd(y,x%y):x,g=gcd(a,b),p=a/g,q=b/g;
     quotient=frac(term(a,'x',m),term(b,'x',n));
     const answer=frac(mn(p),term(q,'x',n-m));
-    out.push(choice(1,'Hvar verða x-þættirnir eftir?','Veldu einfaldasta formið með jákvæðum veldisvísum. Hér er x ekki núll.',math(quotient),[math(frac(term(p,'x',n-m),mn(q))),math(frac(mn(p),term(q,'x',m+n))),math(answer)],2,equation(quotient,answer)+' Fleiri x-þættir eru í nefnaranum en teljaranum.', ['Styttu talnahlutann fyrst.',`Styttu ${m} x-þætti úr teljara og nefnara. Þá eru ${n-m} x-þættir eftir í nefnaranum.`]));
+    out.push(choice(1,'Hvar verða x-þættirnir eftir?','Veldu einfaldasta formið með jákvæðum veldisvísum. Hér er x ekki núll.',math(quotient),[math(frac(term(p,'x',n-m),mn(q))),math(frac(mn(p),term(q,'x',m+n))),math(answer)],2,equation(quotient,answer)+' Fleiri x-þættir eru í nefnaranum en teljaranum.', ['Styttu tölurnar í teljara og nefnara fyrst.',`Styttu ${m} x-þætti úr teljara og nefnara. Þá eru ${n-m} x-þættir eftir í nefnaranum.`]));
     quotient=frac(pow('x',d.zero),pow('x',d.zero));
-    out.push(numbers(2,'Sama veldi í teljara og nefnara','Skráðu gildi brotsins. Hér er x ekki núll.',math(quotient),[1],equation(quotient,mn(1))+' Tala sem er ekki núll deilt með sjálfri sér er 1. Því er x⁰ = 1.', ['Teljari og nefnari hafa sama gildi.','Deiling í sjálft sig gefur 1.']));
+    out.push(numbers(2,'Sama veldi í teljara og nefnara','Skráðu gildi brotsins. Hér er x ekki núll.',math(quotient),[1],equation(quotient,mn(1))+' Þegar tölu sem er ekki núll er deilt með sjálfri sér fæst 1. Því er x⁰ = 1.', ['Teljari og nefnari hafa sama gildi.','Þegar tölu sem er ekki núll er deilt með sjálfri sér fæst 1.']));
     quotient=frac(mi('x'),pow('x',d.recip));
-    out.push(choice(2,'Ósýnilegi veldisvísirinn','Mundu að x merkir x¹. Veldu rétt svar; x er ekki núll.',math(quotient),[math(frac(mn(1),pow('x',d.recip-1))),math(pow('x',d.recip-1)),math(frac(mn(1),pow('x',d.recip)))],0,equation(quotient,frac(mn(1),pow('x',d.recip-1))), ['Styttu einn x-þátt úr teljara og nefnara.','Teljarinn verður 1. Hve margir x-þættir eru eftir í nefnaranum?']));
+    out.push(choice(2,'Veldisvísirinn 1','Mundu að x merkir x¹. Veldu rétt svar; x er ekki núll.',math(quotient),[math(frac(mn(1),pow('x',d.recip-1))),math(pow('x',d.recip-1)),math(frac(mn(1),pow('x',d.recip)))],0,equation(quotient,frac(mn(1),pow('x',d.recip-1))), ['Styttu einn x-þátt úr teljara og nefnara.','Teljarinn verður 1. Hve margir x-þættir eru eftir í nefnaranum?']));
     const [c1,c2,c3,e1,e2,e3]=d.factors;
     product=term(c1,'t',e1)+mo('·')+term(c2,'t',e2)+mo('·')+term(c3,'t',e3);
-    out.push(numbers(3,'Þrír þættir','Margfaldaðu stuðlana og sameinaðu veldin.',math(product),[c1*c2*c3,e1+e2+e3],equation(product,term(c1*c2*c3,'t',e1+e2+e3)),[`Reiknaðu ${fmt(c1)} · ${fmt(c2)} · ${fmt(c3)}.`,`Leggðu saman veldisvísana ${e1}, ${e2} og ${e3}.`],'t'));
+    out.push(numbers(3,'Þrír þættir','Margfaldaðu stuðlana og notaðu veldaregluna.',math(product),[c1*c2*c3,e1+e2+e3],equation(product,term(c1*c2*c3,'t',e1+e2+e3)),[`Reiknaðu ${fmt(c1)} · ${fmt(c2)} · ${fmt(c3)}.`,`Leggðu saman veldisvísana ${e1}, ${e2} og ${e3}.`],'t'));
     [a,m]=d.square;
     const squared=`<msup><mrow>${mo('(')}${term(a,'a',m)}${mo(')')}</mrow>${mn(2)}</msup>`;
     out.push(numbers(4,'Allur liðurinn í öðru veldi','Sviginn sýnir hvað er hafið í veldi.',math(squared),[a*a,m*2],equation(squared,term(a*a,'a',m*2)),['Veldisvísirinn 2 merkir að margfalda allan liðinn með sjálfum sér.',`Reiknaðu ${a} · ${a} og leggðu saman ${m} + ${m}.`],'a'));

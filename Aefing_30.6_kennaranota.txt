@@ -8,11 +8,11 @@ Blaðið heitir „Samoka og ferningsreglur“ en viðfangsefni kjarnans er samo
 
 EFNISVÖRPUN
 30.46 → hluti 1, skref 1–2: samokareglan og miðliðir sem falla út. Fyrst fjölval með skýringunni á eyðingu miðliðanna; síðan stuðlar og fasti, þar á meðal núllstuðull. Reikna þarf annað veldi alls liðarins, bæði stuðuls og bókstafahluta.
-30.47 → hluti 2, skref 3–5: fasti fyrst, tvær breytur og tugabrotsstuðlar. Stuðull við bókstafslið getur orðið neikvæður eftir því hvaða liður hefur gagnstæð formerki. Tugabrot eru reiknuð nákvæmlega.
-30.48 → hluti 3, skref 6–8: endurröðun til að finna sameiginlegan lið, brot sem fasti og brotastuðull við breytu. Teljari og nefnari fara báðir í annað veldi. Jafngild brot eru samþykkt; ekki þarf að breyta broti í námundað tugabrot.
-30.49 → hluti 4, skref 9–11: greina samoka tvíliður frá öðrum tvíliðum. Dæmi af sömu gerð og 30.49d er ekki leysanlegt beint með samokareglunni vegna stuðlanna. Nemandi velur fyrst aðferð og margfaldar síðan lið fyrir lið. Síðasta skrefið notar tugabrotsstuðla og endurröðun þar sem y-liður er eins í báðum svigum.
-30.50 → hluti 5, skref 12–13: mismunur tveggja samokumargfelda; síðan fasti og neikvæður þáttur framan við samokumargfeldi. Svigar utan um niðurstöðu frádráttarhlutans varðveita formerki.
-30.51 → hluti 6, skref 14–15: tvö samokumargfeldi með þáttum utan sviga og fasti. Stæðan er einfölduð áður en neikvætt gildi er sett inn. Svigar utan um neikvæða innsetningu og forgangsröð aðgerða eru sýnd.
+30.47 → hluti 2, skref 3–5: fasti fyrst, tvær breytur og stuðlar sem eru tugabrot. Stuðull við bókstafslið getur orðið neikvæður eftir því hvaða liður hefur gagnstæð formerki. Tugabrot eru reiknuð nákvæmlega.
+30.48 → hluti 3, skref 6–8: endurröðun til að finna sameiginlegan lið, brot sem fasti og stuðull sem er brot við breytu. Teljari og nefnari fara báðir í annað veldi. Jafngild brot eru samþykkt; ekki þarf að breyta broti í námundað tugabrot.
+30.49 → hluti 4, skref 9–11: greina samoka tvíliður frá öðrum tvíliðum. Dæmi af sömu gerð og 30.49d er ekki leysanlegt beint með samokareglunni vegna stuðlanna. Nemandi velur fyrst aðferð og margfaldar síðan lið fyrir lið. Síðasta skrefið notar stuðla sem eru tugabrot og endurröðun þar sem y-liður er eins í báðum svigum.
+30.50 → hluti 5, skref 12–13: mismunur tveggja margfelda samoka tvíliða; síðan fasti og neikvæður þáttur framan við margfeldi samoka tvíliða. Svigar utan um niðurstöðu frádráttarhlutans varðveita formerki.
+30.51 → hluti 6, skref 14–15: tvö margfeldi samoka tvíliða með þáttum utan sviga og fasti. Stæðan er einfölduð áður en neikvætt gildi er sett inn. Svigar utan um neikvæða innsetningu og forgangsröð aðgerða eru sýnd.
 30.52 (piprað) → valfrjáls hluti 7, skref 16–18: summa flatarmála tveggja litaðra hluta er p² − q². Sömu hlutum er endurraðað í rétthyrning með hliðar p + q og p − q. Jafnt flatarmál skýrir samokaregluna. Loks er flatarmálið reiknað með nýjum tölulegum lengdum og báðar leiðir sýndar.
 30.53 (piprað) → valfrjáls hluti 8, skref 19–20: dreifiregla og samokaregla í lengri stæðu. Fyrstu tveir hlutarnir eru einfaldaðir fyrst. Síðan bætast við tvö frádráttarmargfeldi og allir líkir liðir eru dregnir saman.
 

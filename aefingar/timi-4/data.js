@@ -1,6 +1,6 @@
 'use strict';
 const ExerciseData=(()=>{
- const names=['Dreifireglan','Þættir og tvær breytur','Margfalda veldi','Þrír liðir í sviga','Sameina og setja inn gildi','Mínus og innsetning','Fleiri stæður','Rúmmál og yfirborð kassa','Ummál og flatarmál','Rétthyrningur í hlutum'];
+ const names=['Dreifireglan','Þættir og tvær breytur','Margfalda veldi','Þrír liðir í sviga','Sameina og setja inn gildi','Mínus og innsetning','Fleiri stæður','Rúmmál og yfirborðsflatarmál','Ummál og flatarmál','Rétthyrningur í hlutum'];
  const starts=[0,2,4,6,7,11,13,15,17,19],coreCount=15,coreGroups=7;
  const variants=[
   {intro:[3,2,5],power:[3,2],cross:[2,4,3],right:[2,5,3],high:[4,3,2],mixed:[1,3,2],three:[2,3,4,5],sums:[2,3,2,4,3,2,1,2,1,2,3,-2],dec:[3,4,2,5,3,1,4,20,-4],pair:[4,3,2,5,-3],constant:[11,3,2,4],two:[3,2,4],box:[3,2],rectangle:7,grid:[5,8]},
@@ -17,7 +17,7 @@ const ExerciseData=(()=>{
  const work=(...s)=>`<div class="working">${s.map(x=>Array.isArray(x)?splitMath(...x):math(x)).join('')}</div>`;
  const given=(...s)=>`<div class="given-list">${s.map(x=>`<p>${x}</p>`).join('')}</div>`;
  const factor=(k,v,coefs,vars)=>poly([k],[v])+br(poly(coefs,vars));
- const coeff=(part,title,prompt,board,answer,vars,explain,hints,wrong)=>({part,title,prompt,board,type:'coefficients',answer:answer.map(clean),labels:vars.map(v=>v?'Stuðull við '+v:'Fasti'),explain,hints,wrong,help:'Skráðu tölur með formerkjum. Skráðu 0 ef liður fellur út. Komma og punktur eru bæði leyfð.'});
+ const coeff=(part,title,prompt,board,answer,vars,explain,hints,wrong)=>({part,title,prompt,board,type:'coefficients',answer:answer.map(clean),labels:vars.map(v=>v?'Stuðull við '+v:'Fasti'),explain,hints,wrong,help:'Fasti er liður án breytu. Skráðu tölur með formerkjum. Skráðu 0 ef liður fellur út. Komma og punktur eru bæði leyfð.'});
  const number=(part,title,prompt,board,value,explain,hints)=>({part,title,prompt,board,type:'number',answer:[clean(value)],labels:['Gildi stæðunnar'],explain,hints});
  const choice=(part,title,prompt,board,options,correct,explain,hints,wrong)=>({part,title,prompt,board,type:'choice',options,correct,explain,hints,wrong});
  const geoNote=v=>`<p class="geometry-note">Allar lengdir eru í cm og ${v} &gt; 0.</p>`;
@@ -55,15 +55,15 @@ const ExerciseData=(()=>{
   const sumBoard=splitMath(factor(K,'y',[A,B,C],['y²','y','']),mo('−')+factor(L,'y',[E,-F,-G],['y²','y','']),mo('+')+factor(M,'y',[H,-J],['y','']));
   q.push(coeff(4,'Margfaldaðu og sameinaðu','Einfaldaðu alla stæðuna. Skráðu stuðlana, einnig 0 ef liður fellur út.',sumBoard,sumCo,sumVars,
    work([poly([K*A,K*B,K*C],sumVars),poly([-L*E,L*F,L*G],sumVars),mo('+')+poly([M*H,-M*J],['y²','y'])],mo('=')+poly(sumCo,sumVars)),
-   ['Margfaldaðu inn í hvern sviga áður en þú sameinar líka liði.','Mínusinn fyrir framan miðsvigann fylgir öllum þættinum. Báðir neikvæðu liðirnir inni í honum verða jákvæðir við margföldunina.']));
+   ['Margfaldaðu inn í hvern sviga áður en þú sameinar líka liði.','Mínusmerkið fyrir framan svigann í miðjunni fylgir þættinum utan hans. Við margföldunina skiptir hver liður innan svigans um formerki.']));
   let value=sumCo[0]*v**3+sumCo[1]*v*v+sumCo[2]*v;
   q.push(number(4,'Notaðu einfölduðu stæðuna',`Reiknaðu gildið þegar y = ${fmt(v)}.`,given(math(poly(sumCo,sumVars)),math(mi('y')+mo('=')+mn(v))),value,
    work(poly([sumCo[0]*v**3,sumCo[1]*v*v,sumCo[2]*v],['','','']),mo('=')+mn(value)),['Settu gefna tölu í stað y alls staðar í einfölduðu stæðunni.','Önnur veldi neikvæðra talna eru jákvæð, en þriðju veldi þeirra eru neikvæð.']));
   const [P,T,Q,U,W,R,Z,S,t]=d.dec,p=P/10,j=Q/10,r=R/10;
   const decCo=[(-P+Q*U-R*Z)/10,(P*T-Q*W)/10,R*S/10],decVars=['t²','t',''];
-  q.push(coeff(4,'Tugabrotsstuðlar','Margfaldaðu inn í svigana, sameinaðu líka liði og skráðu stuðlana og fastann.',splitMath(factor(p,'t',[T,-1],['','t']),mo('+')+factor(j,'t',[U,-W],['t','']),mo('−')+factor(r,'',[Z,-S],['t²',''])),decCo,decVars,
+  q.push(coeff(4,'Stuðlar sem eru tugabrot','Margfaldaðu inn í svigana, sameinaðu líka liði og skráðu stuðlana og fastann.',splitMath(factor(p,'t',[T,-1],['','t']),mo('+')+factor(j,'t',[U,-W],['t','']),mo('−')+factor(r,'',[Z,-S],['t²',''])),decCo,decVars,
    work([poly([-p,p*T],['t²','t']),mo('+')+poly([j*U,-j*W],['t²','t']),poly([-r*Z,r*S],['t²',''])],mo('=')+poly(decCo,decVars)),
-   ['Margfaldaðu tugabrotsstuðulinn við hvern lið svigans.','Safnaðu t²-liðum saman, t-liðum saman og föstum saman. Mínus fyrir síðasta sviga nær til beggja liða hans.']));
+   ['Margfaldaðu þáttinn utan svigans við hvern lið innan hans.','Dragðu saman t²-liðina, t-liðina og fastana. Mínus fyrir síðasta sviga nær til beggja liða hans.']));
   value=decCo[0]*t*t+decCo[1]*t+decCo[2];
   q.push(number(4,'Settu inn neikvætt gildi',`Reiknaðu gildi einfölduðu stæðunnar þegar t = ${fmt(t)}.`,given(math(poly(decCo,decVars)),math(mi('t')+mo('=')+mn(t))),value,
    work(poly([decCo[0]*t*t,decCo[1]*t,decCo[2]],['','','']),mo('=')+mn(value)),['Reiknaðu t² áður en þú margfaldar með stuðlinum.','Athugaðu formerki hvers liðar og dragðu síðan saman.']));
@@ -77,12 +77,12 @@ const ExerciseData=(()=>{
   q.push(coeff(6,'Fastinn utan svigans','Einfaldaðu. Skráðu stuðulinn við x og fastann.',math(mn(a)+mo('−')+factor(k,'',[b,-c],['','x'])),[k*c,a-k*b],['x',''],
    work(poly([a,-k*b,k*c],['','','x']),mo('=')+poly([k*c,a-k*b],['x',''])),['Fastinn fremst er lagður við það sem fæst úr margfölduninni. Hann margfaldar ekki svigann.','Neikvæði þátturinn fyrir sviganum margfaldar báða liðina.']));
   [a,k,b]=d.two;
-  q.push(coeff(6,'Sameinaðu líka bókstafahluta','Margfaldaðu inn í svigana og einfaldaðu. Skráðu stuðlana við x², xy og y².',splitMath(factor(a,'x',[1,-k],['x','y']),mo('+')+factor(b,'y',[1,-k],['x','y'])),[a,b-a*k,-b*k],['x²','xy','y²'],
+  q.push(coeff(6,'Dragðu saman líka liði','Margfaldaðu inn í svigana og einfaldaðu. Skráðu stuðlana við x², xy og y².',splitMath(factor(a,'x',[1,-k],['x','y']),mo('+')+factor(b,'y',[1,-k],['x','y'])),[a,b-a*k,-b*k],['x²','xy','y²'],
    work([poly([a,-a*k],['x²','xy']),mo('+')+poly([b,-b*k],['xy','y²'])],mo('=')+poly([a,b-a*k,-b*k],['x²','xy','y²'])),['Margfaldaðu inn í báða svigana. Mundu að yx og xy hafa sama gildi.','Sameinaðu xy-liðina. x² og y² eru ólíkir liðir og sameinast ekki.']));
   const [m,n]=d.box;
   q.push(coeff(7,'Rúmmál kassans','Skrifaðu einfaldaða stæðu fyrir rúmmál kassans í cm³. Skráðu stuðlana.',box(m,n),[m,n],['x³','x²'],
    work(mi('R')+mo('=')+mi('x')+mo('·')+mi('x')+mo('·')+br(poly([m,n],['x',''])),mo('=')+poly([m,n],['x³','x²']))+' cm³.',
-   ['Rúmmál kassa er lengd · breidd · hæð.','Margfaldaðu fyrst x · x. Margfaldaðu síðan x² inn í svigann.'],'Notaðu allar þrjár brúnalengdirnar í margfeldi fyrir rúmmál.'));
+   ['Rúmmál kassa er lengd · breidd · hæð.','Margfaldaðu fyrst x · x. Margfaldaðu síðan x² inn í svigann.'],'Notaðu allar þrjár brúnarlengdirnar í margfeldi fyrir rúmmál.'));
   q.push(coeff(7,'Allir sex fletirnir','Skrifaðu einfaldaða stæðu fyrir yfirborðsflatarmál kassans í cm².',box(m,n),[2+4*m,4*n],['x²','x'],
    work([mi('YF')+mo('=')+poly([2],['x²']),mo('+')+factor(4,'x',[m,n],['x',''])],mo('=')+poly([2+4*m,4*n],['x²','x']))+' cm².',
    ['Kassinn hefur sex fleti: tvo ferninga með hlið x og fjóra rétthyrninga með hliðar x og '+m+'x + '+n+'.','Leggðu saman flatarmálin: 2x² + 4x('+m+'x + '+n+'). Margfaldaðu svo inn í svigann.'],'Yfirborðsflatarmálið er samanlagt flatarmál allra sex flata kassans.'));

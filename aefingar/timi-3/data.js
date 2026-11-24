@@ -21,7 +21,7 @@ const ExerciseData=(()=>{
  const calc=(coefs,value,powers)=>coefs.map((c,i)=>`${i?(c<0?mo('−'):mo('+')):c<0?mo('−'):''}${mn(Math.abs(c))}${powers[i]?mo('·')+(powers[i]===1?br(mn(value)):pow(br(mn(value)),powers[i])):''}`).join('');
  const splitCalc=(coefs,value,powers)=>splitMath(calc(coefs.slice(0,1),value,powers.slice(0,1)),(coefs[1]>=0?mo('+'):'')+calc(coefs.slice(1),value,powers.slice(1)));
  const number=(part,title,prompt,board,value,explain,hints,label='Gildi stæðunnar')=>({part,title,prompt,board,type:'number',answer:[Number(value.toPrecision(12))],labels:[label],explain,hints});
- const coeff=(part,title,prompt,board,answer,vars,explain,hints)=>({part,title,prompt,board,type:'coefficients',answer,labels:vars.map(v=>v?'Stuðull við '+v:'Fasti'),explain,hints,help:'Skráðu tölur með formerkjum. Skráðu 0 ef liður fellur út.'});
+ const coeff=(part,title,prompt,board,answer,vars,explain,hints)=>({part,title,prompt,board,type:'coefficients',answer,labels:vars.map(v=>v?'Stuðull við '+v:'Fasti'),explain,hints,help:'Fasti er liður án breytu. Skráðu tölur með formerkjum. Skráðu 0 ef liður fellur út.'});
  const choice=(part,title,prompt,board,options,correct,explain,hints,wrong)=>({part,title,prompt,board,type:'choice',options,correct,explain,hints,wrong});
  function tasks(seed){
   const d=variants[seed],q=[];
@@ -36,13 +36,13 @@ const ExerciseData=(()=>{
   q.push(choice(1,'Veldu rétta innsetningu',`Hvaða lína sýnir rétta innsetningu þegar a = ${fmt(z)}?`,given(math(quad),math(mi('a')+mo('=')+mn(z))),[
    splitCalc([A,B,C],z,[1,1,0]),splitCalc([A,B,C],z,[2,1,0]),splitCalc([A,-B,C],z,[2,1,0])],1,
    'Settu gildið í stað a á báðum stöðum. Veldisvísirinn stendur utan svigans, svo öll neikvæða talan er hafin í annað veldi.',
-   ['Skiptu báðum a-um út fyrir gefna tölu.','Veldisvísirinn 2 á að ná yfir allt innsetta gildið.'], 'Gildið þarf að koma í stað a á báðum stöðum og veldisvísirinn á að vera utan svigans.'));
+   ['Settu gefna tölu í stað a á báðum stöðum.','Veldisvísirinn 2 á að ná yfir allt innsetta gildið.'], 'Gildið þarf að koma í stað a á báðum stöðum og veldisvísirinn á að vera utan svigans.'));
   let value=A*z*z+B*z+C;
   q.push(number(1,'Reiknaðu í réttri röð','Reiknaðu gildi stæðunnar. Byrjaðu á veldinu.',splitCalc([A,B,C],z,[2,1,0]),value,
    work(poly([A*z*z,B*z,C],['','','']),mo('=')+mn(value)),['Neikvæð tala í öðru veldi er jákvæð.','Reiknaðu margföldunina á eftir veldinu og dragðu síðan saman.']));
   let [p,r,t]=d.decimal;value=p*t-r*t*t;
   q.push(number(2,'Tugabrot í stað breytu',`Reiknaðu gildi stæðunnar þegar t = ${fmt(t)}.`,given(math(poly([p,-r],['t','t²'])),math(mi('t')+mo('=')+mn(t))),value,
-   work(calc([p,-r],t,[1,2]),mo('=')+mn(p*t)+mo('−')+mn(r*t*t),mo('=')+mn(Number(value.toPrecision(12)))),['Settu tugabrotið í stað t á báðum stöðum.','Reiknaðu t² áður en þú margfaldar með stuðlinum. Ferningur tölu milli 0 og 1 er minni en talan sjálf.']));
+   work(calc([p,-r],t,[1,2]),mo('=')+mn(p*t)+mo('−')+mn(r*t*t),mo('=')+mn(Number(value.toPrecision(12)))),['Settu tugabrotið í stað t á báðum stöðum.','Reiknaðu t² áður en þú margfaldar með stuðlinum. Þegar tala milli 0 og 1 er hafin í annað veldi verður útkoman minni en talan sjálf.']));
   [a,b,x]=d.bracket;
   const inner=poly([b,-x],['x','']);
   q.push(choice(3,'Plús fyrir framan sviga','Hvaða lína fæst þegar svigarnir eru fjarlægðir?',math(poly([a],['x'])+mo('+')+br(inner)),[
@@ -58,13 +58,13 @@ const ExerciseData=(()=>{
    work(poly([a,b,-x,t],['a²','','a²','']),mo('=')+poly([a-x,b+t],['a²',''])),['Mínusinn fyrir framan seinni svigann nær til beggja liðanna í honum.','Sameinaðu a²-liðina annars vegar og fastana hins vegar.']));
   [a,b,x,t]=d.two;
   q.push(coeff(5,'Tvær breytur','Einfaldaðu. Skráðu stuðlana við x² og y².',splitMath(br(poly([a,b],['x²','y²'])),mo('−')+br(poly([x,-t],['x²','y²']))),[a-x,b+t],['x²','y²'],
-   work([poly([a,-x],['x²','x²']),mo('+')+br(poly([b,t],['y²','y²']))],mo('=')+poly([a-x,b+t],['x²','y²'])),['Skiptu um formerki á báðum liðum seinni svigans.','Reiknaðu x²-liðina saman og y²-liðina saman. Ekki sameina ólíka bókstafahluta.']));
+   work([poly([a,-x],['x²','x²']),mo('+')+br(poly([b,t],['y²','y²']))],mo('=')+poly([a-x,b+t],['x²','y²'])),['Skiptu um formerki á báðum liðum seinni svigans.','Dragðu x²-liðina saman og y²-liðina saman. Ekki sameina ólíka bókstafahluta.']));
   [a,b,x,t]=d.three;
   q.push(coeff(5,'Mínus nær til allra liðanna','Einfaldaðu. Skráðu stuðlana við x² og x og síðan fastann.',splitMath(mn(a),mo('−')+br(poly([b,-x,-t],['','x','x²']))),[t,x,a-b],['x²','x',''],
    work(poly([a,-b,x,t],['','','x','x²']),mo('=')+poly([t,x,a-b],['x²','x',''])),['Allir þrír liðirnir innan svigans skipta um formerki.','Sameinaðu fastana. Raðaðu svo svarinu með x²-lið fyrst og fastann síðast.']));
   [a,b]=d.cancel;
   q.push(coeff(5,'Þegar liðir falla út','Einfaldaðu. Skráðu stuðulinn við x² og fastann. Skráðu 0 ef x²-liðurinn fellur út.',math(poly([a],['x²'])+mo('+')+br(poly([-b,-a],['','x²']))),[0,-b],['x²',''],
-   work(poly([a,-a,-b],['x²','x²','']),mo('=')+mn(-b)),['Plús fyrir framan svigann breytir ekki formerkjunum.','Jafnstórir liðir með gagnstæðum formerkjum eyða hvor öðrum. Fastinn verður eftir.']));
+   work(poly([a,-a,-b],['x²','x²','']),mo('=')+mn(-b)),['Plús fyrir framan svigann breytir ekki formerkjunum.','Líkir liðir með gagnstæðum stuðlum eyða hvor öðrum. Fastinn verður eftir.']));
   [a,b,x,t]=d.model;value=a*t+b*t*t-x*t*t*t;
   q.push(number(6,'Vatnsmagn samkvæmt líkani','Í tilbúnu líkani lýsir stæðan vatnsmagni í geymi, í lítrum, t mínútum frá upphafi. Hve margir lítrar eru í geyminum á gefnum tíma?',
    given(math(poly([a,b,-x],['t','t²','t³'])),math(mi('t')+mo('=')+mn(t))+' mínútur','Líkanið gildir fyrstu 8 mínúturnar.'),value,

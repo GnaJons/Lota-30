@@ -10,7 +10,7 @@ EFNISVÖRPUN
 30.29 → hluti 2, skref 3–4: tvær breytur, formerki og þáttur hægra megin við sviga. Stuðlasvör; aðgreina x² og xy og halda öllum þáttum með.
 30.30 → hluti 3, skref 5–6: margföldun velda og margföldun með tveimur bókstöfum. Veldisvísar leggjast saman aðeins við sama veldisstofn. Aðgreina y³ og y⁴, a³x og ax⁴.
 30.31 → hluti 4, skref 7: margfalda við alla þrjá liði sviga, með jákvæðum og neikvæðum liðum. Þrír stuðlar skráðir.
-30.32 → hluti 5, skref 8–11: þrjú margfeldi sameinuð, neikvæður þáttur fyrir miðsviga, þriðju veldi sem geta fallið út, síðan innsetning. Sér dæmi með tugabrotsstuðlum og neikvæðri innsetningu. Stuðlasvör og talnasvör; núll, neikvæð svör og tugabrot koma fyrir.
+30.32 → hluti 5, skref 8–11: þrjú margfeldi sameinuð, neikvæður þáttur fyrir sviga í miðjunni, þriðju veldi sem geta fallið út, síðan innsetning. Sér dæmi með stuðlum sem eru tugabrot og neikvæðri innsetningu. Stuðlasvör og talnasvör; núll, neikvæð svör og tugabrot koma fyrir.
 30.33 → hluti 6, skref 12–13: tvö margfeldi með mínus á milli, einföldun og innsetning neikvæðs gildis. Mínusinn fylgir öllum þættinum utan seinni svigans.
 30.34 → hluti 7, skref 14–15: fasti utan margfeldisins, neikvæður þáttur og sameining tveggja margfelda með x og y. Aðgreina x², xy og y²; yx og xy hafa sama gildi.
 30.35 (piprað) → valfrjáls hluti 8, skref 16–17: ný mynd af kassa með hliðar x, x og mx + n. Rúmmál og yfirborðsflatarmál reiknuð og stæður einfaldaðar. Tveir ferningslaga fletir og fjórir eins rétthyrndir fletir taldir með.
@@ -28,7 +28,7 @@ Skali 3A, Menntamálastofnun, prentuð bls. 132 lesin: margföldun við alla li�
 
 GÆÐAPRÓFUN OG VARÐVEISLA
 Öll 63 skref þriggja talnaafbrigða prófuð gegn sjálfstætt reiknuðum svarlykli. Tóm, röng og rétt svör, leiðrétting svara, vísbendingar, áfram/aftur, yfirlit, lyklaborð og endurtekning með nýjum tölum prófuð.
-Sérstaklega prófuð: núllstuðlar, neikvæðir stuðlar, blandaðir bókstafahlutar, þriðju og fjórðu veldi, tugabrotsstuðlar, innsetning og rúmfræðisvör. Vistun þriggja svarreita, skemmd vafrageymsla og óaðgengileg vafrageymsla yfirfarin. Framvinda tíma 1–3 varðveitt og aðskilin.
+Sérstaklega prófuð: núllstuðlar, neikvæðir stuðlar, blandaðir bókstafahlutar, þriðju og fjórðu veldi, stuðlar sem eru tugabrot, innsetning og rúmfræðisvör. Vistun þriggja svarreita, skemmd vafrageymsla og óaðgengileg vafrageymsla yfirfarin. Framvinda tíma 1–3 varðveitt og aðskilin.
 Allir skjáir prófaðir í fjórum breiddum 360–1360 px, og innfelld æfing í þremur breiddum. Langar stæður skiptast á eðlilegum aðgerðamörkum. Myndir og heiti eru læsileg án lárétts skrunar. Engin nöfn eða svör eru send til kennara.
 Ekkert lesefni var stytt eða breytt. Sjö kaflar, 14 númeruð sýnidæmi, 25 hugtakaskýringar, gátlisti, myndir og myndbönd varðveitt. Prent-PDF og æfingar tíma 1–3 eru óbreytt. Ný æfing er falin við prentun.
 

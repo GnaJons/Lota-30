@@ -1,3 +1,5 @@
+NÝJASTA YFIRFERÐ: Sjá Ordalagsyfirferd_2026-11-24.txt. Núverandi prenthefti er 23 síður og hugtakaskýringar eru 25. Eldri yfirferð hér á eftir er varðveitt til viðmiðunar.
+
 LOTA 30 · UNDIRBÚNINGUR FYRIR VERKEFNIN 30.1–30.7
 24. nóvember 2026
 
@@ -7,9 +9,9 @@ Lesefnið var borið saman við öll sjö verkefnablöðin, bæði kjarnadæmi o
 Við styttinguna höfðu reglurnar sjálfar varðveist, en nokkrar yfirfærslur milli reglna og verkefna voru orðnar of óbeinar. Þær voru styrktar án þess að fjölga sýnidæmum. Nú eru áfram tvö sýnidæmi í hverjum tíma, samtals 14, og prentheftið er 21 síða. Þyngri dæmin krefjast áfram sjálfstæðrar samsetningar aðferða.
 
 1. BLAÐ · 30.1–30.9
-30.1–30.4: Margföldun og deiling velda, stuðlar, ósýnilegi veldisvísirinn 1, núllti veldisvísir og neikvæður veldisvísir. Reglur og sýnidæmi 1–2 ná yfir þetta.
+30.1–30.4: Margföldun og deiling velda, stuðlar, veldisvísirinn 1 sem ekki er skrifaður, veldisvísir núll og neikvæður veldisvísir. Reglur og sýnidæmi 1–2 ná yfir þetta.
 30.5 og 30.8: Veldi þarf að ná yfir stuðul og alla þætti. Fyrra sýnidæmi 1 kenndi aðeins margföldun. Það hefur verið breytt í eitt stutt dæmi þar sem margfeldi er hafið í veldi og síðan margfaldað áfram. Bætt var við að vinna með veldi hvers bókstafs sérstaklega.
-30.6–30.7: Flatarmál rétthyrnings, rúmmál kassa og tenings, lengdarstæðurnar og réttar einingar eru enn með. Myndirnar sýna tengsl lengda við stæður án þess að leysa verkefnin.
+30.6–30.7: Flatarmál rétthyrnings, rúmmál kassa og tenings, stæðurnar fyrir lengdirnar og réttar einingar eru enn með. Myndirnar sýna tengsl lengda við stæður án þess að leysa verkefnin.
 30.9: Munurinn á liðum og þáttum og skilyrði fyrir sameiningu liða eru bæði í kennslutexta og hugtakaskrá.
 Mat: Nægur grunnur eftir styrkingu sýnidæmis 1.
 
@@ -18,7 +20,7 @@ Mat: Nægur grunnur eftir styrkingu sýnidæmis 1.
 30.12–30.14: Stuðlar og tugveldi eru reiknuð sérstaklega, aðlögun að staðalformi er skýrð, og deiling með neikvæðum veldisvísi er sýnd. Milljón, milljarður og kvóti eru skilgreind.
 30.15–30.16: Nemendur velja reikniaðgerð sjálfir. Almennar leiðbeiningar um gefnar stærðir, einingar og mat á niðurstöðu halda sér; full hliðstæð orðadæmi voru ekki sett aftur inn.
 30.17: Rúmmálsformúla kúlu, radíus, rúmmálseining, markverðir tölustafir og námundun eru með. Bætt var aftur við stuttri almennri reglu um að hefja bæði stuðul og tugveldi í veldi. Ekki er sýnd lausn á jarðardæminu.
-30.18: Samband km² og m², almenn prósentuupprifjun og þörf á viðmiði um rými á mann eru með. Nemendur þurfa sjálfir að velja aðgerðir og rökstyðja niðurstöðuna.
+30.18: Samband km² og m², almenn prósentuupprifjun og þörf á viðmiði um flatarmál á mann eru með. Nemendur þurfa sjálfir að velja aðgerðir og rökstyðja niðurstöðuna.
 Mat: Nægur grunnur; sjálfstæð lausnaleit í hagnýtum dæmum er meðvituð.
 
 3. BLAÐ · 30.19–30.27

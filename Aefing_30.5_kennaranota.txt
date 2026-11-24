@@ -11,11 +11,11 @@ EFNISVÖRPUN
 30.39 → hluti 2, skref 4–5: fjórir ólíkir bókstafahlutar, síðan einn sameiginlegur bókstafur í svigunum. Fjórir svarreitir aðgreina liði sem ekki má draga saman. Röð þátta skýrist með xa = ax.
 30.40 → hluti 3, skref 6–7: fasti á undan neikvæðum bókstafalið og stuðlar við báða x-liði. Röð liða og formerki haldast skýr í milliskrefum.
 30.41 → hluti 4, skref 8–9: mismunandi breytur í svigunum og tvær sameiginlegar breytur. Nemandi aðgreinir xy, x, y og fasta, en sameinar ab-liði þegar við á.
-30.42 → hluti 5, skref 10–11: tugabrotsstuðlar með einni og tveimur breytum. Reiknað er nákvæmlega; milliskref eru ekki námunduð.
+30.42 → hluti 5, skref 10–11: stuðlar sem eru tugabrot með einni og tveimur breytum. Reiknað er nákvæmlega; milliskref eru ekki námunduð.
 30.43 → hluti 6, skref 12–13: fjögur margfeldi þar sem miðliðir falla út. Nemandi skráir núllstuðul. Í seinna dæminu kemur fastinn fyrst og stuðull við y² verður neikvæður. Ekki er krafist þekkingar á heiti samokareglunnar í kjarnanum.
 30.44 (piprað) → valfrjáls hluti 7, skref 14–17: heiti fyrri ferningsreglu, seinni ferningsreglu og samokareglu tengd við stæður. Síðan er reiknað eitt nýtt dæmi með hverri reglu.
-30.45a (piprað) → valfrjáls hluti 8, skref 18–19: lengri stæða unnin í hlutum. Fyrstu tvö margfeldin eru einfölduð, síðan bætast samokumargfeldi og tveir ferningar við. Stuðlar við x², xy og y² eru dregnir saman.
-30.45b (piprað) → valfrjáls hluti 8, skref 20–21: neikvæður þáttur framan við samokumargfeldi með brotum, síðan heildarstæðan með tveimur ferningum og þremur þáttum utan sviga. Jafngild brot og nákvæm tugabrot eru samþykkt. Brot eru sýnd í nauðsynlegum milliskrefum.
+30.45a (piprað) → valfrjáls hluti 8, skref 18–19: lengri stæða unnin í hlutum. Fyrstu tvö margfeldin eru einfölduð, síðan bætast við margfeldi samoka tvíliða og tvær stæður sem eru hafnar í annað veldi. Stuðlar við x², xy og y² eru dregnir saman.
+30.45b (piprað) → valfrjáls hluti 8, skref 20–21: neikvæður þáttur framan við margfeldi samoka tvíliða með brotum, síðan heildarstæðan með tveimur stæðum í öðru veldi og þremur þáttum utan sviga. Jafngild brot og nákvæm tugabrot eru samþykkt. Brot eru sýnd í nauðsynlegum milliskrefum.
 
 SKÝRINGAR OG ORÐALAG
 Notuð eru samþykkt hugtök: tvíliða, margfeldi, þáttur, liður, líkir liðir, stuðull, fasti, bókstafahluti, samokaregla, fyrri ferningsreglan og seinni ferningsreglan.
